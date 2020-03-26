@@ -1,0 +1,11 @@
+{    "name": "Hide Collection-Only Button for eBay",
+     "version": "1.0",
+     "description": "Adds a button to hide Collection-Only items on eBay.",
+     "manifest_version": 2,
+     "permissions": ["storage", "activeTab"],
+     "content_scripts":[{
+        "js": ["index.js"],
+        "matches": ["https://*.ebay.co.uk/sch/*", "https://*.ebay.com.au/sch/*", "https://*.ebay.at/sch/*", "https://*.ebay.be/sch/*", "https://*.ebay.ca/sch/*", "https://*.ebay.cn/sch/*", "https://*.ebay.fr/sch/*", "https://*.ebay.de/sch/*", "https://*.ebay.ie/sch/*", "https://*.ebay.it/sch/*", "https://*.ebay.com.hk/sch/*", "https://*.ebay.com.my/sch/*", "https://*.ebay.nl/sch/*", "https://*.ebay.ph/sch/*", "https://*.ebay.pl/sch/*", "https://*.ebay.com.sg/sch/*", "https://*.ebay.es/sch/*", "https://*.ebay.ch/sch/*", "https://*.ebay.com.tw/sch/*", "https://*.ebay.co.th/sch/*", "https://*.ebay.com/sch/*", "https://*.ebay.vn/sch/*"],
+        "run_at": "document_idle"
+     }]
+}
