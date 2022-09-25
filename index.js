@@ -8,8 +8,19 @@ const c = {
   ebayConfigTabsId: '.fake-tabs__items',
   ebayConfigTabsButtonClass: 'fake-tabs__item btn',
   ebayConfigTabsButtonTitleClass: 'srp-format-tabs-h2',
-  hideCollectionOnlyButtonTitle: 'Hide Collection-Only'
+  hideCollectionOnlyButtonTitle: getText('hideCollectionOnlyButtonTitle', 'Hide Collection-Only')
 };
+
+function getText (name, defaultString) {
+  if (typeof chrome !== 'undefined') {
+    return chrome.i18n.getMessage(name);
+  } else if (typeof browser !== 'undefined') {
+    return browser.i18n.getMessage(name);
+  } else {
+    console.error("Unknown browser, can't get translations. Returning default value: " + defaultString);
+    return defaultString;
+  }
+}
 
 function setStorage (hidden) {
   // Chrome
@@ -19,7 +30,7 @@ function setStorage (hidden) {
   } else if (typeof browser !== 'undefined') {
     browser.storage.sync.set({ hidden: hidden });
   } else {
-    console.error('Hide Collection Only Ebay: No browser storage found, not saving state: ', hidden);
+    console.error(`${getText('extensionName', 'Hide Collection-Only Button for eBay')}: ${getText('noBrowserStorageFound', 'No browser storage found')}, ${getText('notSavingState', 'not saving state')}: ${hidden}`);
   }
 }
 
@@ -36,7 +47,7 @@ function getStorage () {
         resolve(result?.hidden);
       });
     } else {
-      console.error('Hide Collection Only Ebay: No browser storage found, returning default state: false');
+      console.error(`${getText('extensionName', 'Hide Collection-Only Button for eBay')}: ${getText('noBrowserStorageFound', 'No browser storage found')}, ${getText('returningDefaultState', 'returning default state')}: false`);
       resolve(false);
     }
   });

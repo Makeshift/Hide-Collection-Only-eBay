@@ -1,0 +1,20 @@
+{
+  "extensionName": {
+    "message": "Hide Collection-Only Button for eBay"
+  },
+  "extensionDescription": {
+    "message": "Adds a button to hide Collection-Only items on eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Hide Collection-Only"
+  },
+  "noBrowserStorageFound": {
+    "message": "No browser storage found"
+  },
+  "notSavingState": {
+    "message": "not saving state"
+  },
+  "returningDefaultState": {
+    "message": "returning default state"
+  }
+}

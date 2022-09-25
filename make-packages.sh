@@ -2,7 +2,7 @@
 
 wd=$(pwd)
 tmpdir=$(mktemp -d)
-cp index.js manifest.json "$tmpdir/"
+cp -r index.js manifest.json _locales "$tmpdir/"
 cd "$tmpdir" || exit 1
 
 # Chrome

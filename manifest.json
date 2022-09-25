@@ -1,8 +1,9 @@
 {
-  "name": "Hide Collection-Only Button for eBay",
+  "name": "__MSG_extensionName__",
   "version": "1.2.0",
-  "description": "Adds a button to hide Collection-Only items on eBay.",
-  "manifest_version": 3,
+  "description": "__MSG_extensionDescription__",
+  "manifest_version": 2,
+  "default_locale": "en",
   "permissions": [
     "storage"
   ],
