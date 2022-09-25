@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay үшін тек коллекцияны жасыру түймесі"},"extensionDescription":{"message ":"eBay-де тек коллекция элементтерін жасыру үшін түймені қосады."},"hideCollectionOnlyButtonTitle":{"message ":"Тек коллекцияны жасыру"},"noBrowserStorageFound":{"message ":"Браузер қоймасы табылмады"},"notSavingState":{"message ":"күйді сақтамайды"},"returningDefaultState":{"message ":"әдепкі күйді қайтару"}}
+{
+  "extensionName": {
+    "message": "eBay үшін тек коллекцияны жасыру түймесі"
+  },
+  "extensionDescription": {
+    "message": "eBay-де тек коллекция элементтерін жасыру үшін түймені қосады."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Тек коллекцияны жасыру"
+  },
+  "noBrowserStorageFound": {
+    "message": "Браузер қоймасы табылмады"
+  },
+  "notSavingState": {
+    "message": "күйді сақтамайды"
+  },
+  "returningDefaultState": {
+    "message": "әдепкі күйді қайтару"
+  }
+}

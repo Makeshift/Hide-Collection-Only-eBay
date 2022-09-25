@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Ukryj przycisk tylko do odbioru w serwisie eBay"},"extensionDescription":{"message ":"Dodaje przycisk do ukrywania przedmiotów Tylko do kolekcji w serwisie eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Ukryj tylko kolekcję"},"noBrowserStorageFound":{"message ":"Nie znaleziono pamięci przeglądarki"},"notSavingState":{"message ":"nie zapisuję stanu"},"returningDefaultState":{"message ":"przywracanie stanu domyślnego"}}
+{
+  "extensionName": {
+    "message": "Ukryj przycisk tylko do odbioru w serwisie eBay"
+  },
+  "extensionDescription": {
+    "message": "Dodaje przycisk do ukrywania przedmiotów Tylko do kolekcji w serwisie eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Ukryj tylko kolekcję"
+  },
+  "noBrowserStorageFound": {
+    "message": "Nie znaleziono pamięci przeglądarki"
+  },
+  "notSavingState": {
+    "message": "nie zapisuję stanu"
+  },
+  "returningDefaultState": {
+    "message": "przywracanie stanu domyślnego"
+  }
+}

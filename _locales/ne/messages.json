@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay को लागि संग्रह-मात्र बटन लुकाउनुहोस्"},"extensionDescription":{"message ":"eBay मा संग्रह-मात्र वस्तुहरू लुकाउन बटन थप्छ।"},"hideCollectionOnlyButtonTitle":{"message ":"संग्रह लुकाउनुहोस्-मात्र"},"noBrowserStorageFound":{"message ":"कुनै ब्राउजर भण्डारण फेला परेन"},"notSavingState":{"message ":"राज्य बचत छैन"},"returningDefaultState":{"message ":"पूर्वनिर्धारित स्थिति फर्काउँदै"}}
+{
+  "extensionName": {
+    "message": "eBay को लागि संग्रह-मात्र बटन लुकाउनुहोस्"
+  },
+  "extensionDescription": {
+    "message": "eBay मा संग्रह-मात्र वस्तुहरू लुकाउन बटन थप्छ।"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "संग्रह लुकाउनुहोस्-मात्र"
+  },
+  "noBrowserStorageFound": {
+    "message": "कुनै ब्राउजर भण्डारण फेला परेन"
+  },
+  "notSavingState": {
+    "message": "राज्य बचत छैन"
+  },
+  "returningDefaultState": {
+    "message": "पूर्वनिर्धारित स्थिति फर्काउँदै"
+  }
+}

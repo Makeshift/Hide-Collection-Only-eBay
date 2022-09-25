@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Nkaum Sau-Tsuas khawm rau eBay"},"extensionDescription":{"message ":"Ntxiv ib lub pob kom nkaum Collection-Tsuas yog cov khoom ntawm eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Hide Collection-Tsuas"},"noBrowserStorageFound":{"message ":"Tsis pom qhov browser cia"},"notSavingState":{"message ":"tsis txuag lub xeev"},"returningDefaultState":{"message ":"rov qab lub xeev qub"}}
+{
+  "extensionName": {
+    "message": "Nkaum Sau-Tsuas khawm rau eBay"
+  },
+  "extensionDescription": {
+    "message": "Ntxiv ib lub pob kom nkaum Collection-Tsuas yog cov khoom ntawm eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Hide Collection-Tsuas"
+  },
+  "noBrowserStorageFound": {
+    "message": "Tsis pom qhov browser cia"
+  },
+  "notSavingState": {
+    "message": "tsis txuag lub xeev"
+  },
+  "returningDefaultState": {
+    "message": "rov qab lub xeev qub"
+  }
+}

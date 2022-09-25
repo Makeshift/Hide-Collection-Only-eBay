@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"EBay өчен Коллекция-Тик төймәсен яшерегез"},"extensionDescription":{"message ":"EBay-та Коллекция-әйберләрне яшерү өчен төймә өсти."},"hideCollectionOnlyButtonTitle":{"message ":"Коллекцияне генә яшерегез"},"noBrowserStorageFound":{"message ":"Браузер саклау урыны табылмады"},"notSavingState":{"message ":"дәүләтне сакламый"},"returningDefaultState":{"message ":"килешү халәтен кайтару"}}
+{
+  "extensionName": {
+    "message": "EBay өчен Коллекция-Тик төймәсен яшерегез"
+  },
+  "extensionDescription": {
+    "message": "EBay-та Коллекция-әйберләрне яшерү өчен төймә өсти."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Коллекцияне генә яшерегез"
+  },
+  "noBrowserStorageFound": {
+    "message": "Браузер саклау урыны табылмады"
+  },
+  "notSavingState": {
+    "message": "дәүләтне сакламый"
+  },
+  "returningDefaultState": {
+    "message": "килешү халәтен кайтару"
+  }
+}

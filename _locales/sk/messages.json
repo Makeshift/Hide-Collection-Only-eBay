@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Hide Collection-Only Button pre eBay"},"extensionDescription":{"message ":"Pridá tlačidlo na skrytie položiek Iba kolekcia na eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Skryť iba kolekciu"},"noBrowserStorageFound":{"message ":"Nenašlo sa žiadne úložisko prehliadača"},"notSavingState":{"message ":"nešetrí štát"},"returningDefaultState":{"message ":"návratom do predvoleného stavu"}}
+{
+  "extensionName": {
+    "message": "Hide Collection-Only Button pre eBay"
+  },
+  "extensionDescription": {
+    "message": "Pridá tlačidlo na skrytie položiek Iba kolekcia na eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Skryť iba kolekciu"
+  },
+  "noBrowserStorageFound": {
+    "message": "Nenašlo sa žiadne úložisko prehliadača"
+  },
+  "notSavingState": {
+    "message": "nešetrí štát"
+  },
+  "returningDefaultState": {
+    "message": "návratom do predvoleného stavu"
+  }
+}

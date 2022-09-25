@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Zoo bọtịnụ naanị maka eBay"},"extensionDescription":{"message ":"Na-agbakwụnye bọtịnụ iji zoo mkpokọta-naanị ihe na eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Zoo mkpokọta-naanị"},"noBrowserStorageFound":{"message ":"Enweghị nchekwa ihe nchọgharị ahụghị"},"notSavingState":{"message ":"anaghị echekwa steeti"},"returningDefaultState":{"message ":"steeti ndabara na-alọghachi"}}
+{
+  "extensionName": {
+    "message": "Zoo bọtịnụ naanị maka eBay"
+  },
+  "extensionDescription": {
+    "message": "Na-agbakwụnye bọtịnụ iji zoo mkpokọta-naanị ihe na eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Zoo mkpokọta-naanị"
+  },
+  "noBrowserStorageFound": {
+    "message": "Enweghị nchekwa ihe nchọgharị ahụghị"
+  },
+  "notSavingState": {
+    "message": "anaghị echekwa steeti"
+  },
+  "returningDefaultState": {
+    "message": "steeti ndabara na-alọghachi"
+  }
+}

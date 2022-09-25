@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay కోసం సేకరణ-మాత్రమే బటన్u200cను దాచండి"},"extensionDescription":{"message ":"eBayలో సేకరణ-మాత్రమే అంశాలను దాచడానికి బటన్u200cను జోడిస్తుంది."},"hideCollectionOnlyButtonTitle":{"message ":"సేకరణను దాచు-మాత్రమే"},"noBrowserStorageFound":{"message ":"బ్రౌజర్ నిల్వ కనుగొనబడలేదు"},"notSavingState":{"message ":"రాష్ట్రాన్ని రక్షించడం లేదు"},"returningDefaultState":{"message ":"తిరిగి డిఫాల్ట్ స్థితి"}}
+{
+  "extensionName": {
+    "message": "eBay కోసం సేకరణ-మాత్రమే బటన్u200cను దాచండి"
+  },
+  "extensionDescription": {
+    "message": "eBayలో సేకరణ-మాత్రమే అంశాలను దాచడానికి బటన్u200cను జోడిస్తుంది."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "సేకరణను దాచు-మాత్రమే"
+  },
+  "noBrowserStorageFound": {
+    "message": "బ్రౌజర్ నిల్వ కనుగొనబడలేదు"
+  },
+  "notSavingState": {
+    "message": "రాష్ట్రాన్ని రక్షించడం లేదు"
+  },
+  "returningDefaultState": {
+    "message": "తిరిగి డిఫాల్ట్ స్థితి"
+  }
+}

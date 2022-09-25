@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay-д зориулсан зөвхөн цуглуулгыг нуух товчлуур"},"extensionDescription":{"message ":"eBay дээр зөвхөн цуглуулгад хамаарах зүйлсийг нуух товчийг нэмдэг."},"hideCollectionOnlyButtonTitle":{"message ":"Зөвхөн цуглуулгыг нуух"},"noBrowserStorageFound":{"message ":"Хөтөч хадгалах сан олдсонгүй"},"notSavingState":{"message ":"төрийг аврахгүй"},"returningDefaultState":{"message ":"өгөгдмөл төлөвийг буцаах"}}
+{
+  "extensionName": {
+    "message": "eBay-д зориулсан зөвхөн цуглуулгыг нуух товчлуур"
+  },
+  "extensionDescription": {
+    "message": "eBay дээр зөвхөн цуглуулгад хамаарах зүйлсийг нуух товчийг нэмдэг."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Зөвхөн цуглуулгыг нуух"
+  },
+  "noBrowserStorageFound": {
+    "message": "Хөтөч хадгалах сан олдсонгүй"
+  },
+  "notSavingState": {
+    "message": "төрийг аврахгүй"
+  },
+  "returningDefaultState": {
+    "message": "өгөгдмөл төлөвийг буцаах"
+  }
+}

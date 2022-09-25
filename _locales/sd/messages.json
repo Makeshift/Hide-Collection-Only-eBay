@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay ﻮﻳﺎڪﻟ ﮡٽﺑ ﻑﺮﺻ-ﻦﺸڪﻴﻠڪ ءِﻻ﻿"},"extensionDescription":{"message ":"eBay ﻮﭤ ﻱﺮڪ ﻞﻣﺎﺷ ﮡٽﺑ ڪﻫ ءِﻻ﻿ ﮡﺋﺎڪﻟ ﻥﻮﻴﺷ ﻑﺮﺻ-ﻦﺸڪﻴﻠڪ ﻲﺗ."},"hideCollectionOnlyButtonTitle":{"message ":"                                                                                                                                                                                               ﻑﺮﺻ-ﻮﻋﻮﻤﺠﻣ ﻮﻳﺎڪﻟ"},"noBrowserStorageFound":{"message ":"                                                                                                                                                                                  ﻮﻴﻠﻣ ﻪﻧ ﺞﻳﺭﻮٽﺳﺍ ﺭﺯﻮﺋﺍﺮﺑ ﻪﺑ ﻮڪ"},"notSavingState":{"message ":"                                                                                                                                                                                              ﻪﻧ ﮡﺋﺎﭽﺑ ﻲﮐ ﺖﺳﺎﻳﺭ"},"returningDefaultState":{"message ":"                                                                                                                                                                                               ﺖﻟﺎﺣ ٽﻟﺎﻓڊ ﻲﺴﭘﺍﻭ"}}
+{
+  "extensionName": {
+    "message": "eBay ﻮﻳﺎڪﻟ ﮡٽﺑ ﻑﺮﺻ-ﻦﺸڪﻴﻠڪ ءِﻻ﻿"
+  },
+  "extensionDescription": {
+    "message": "eBay ﻮﭤ ﻱﺮڪ ﻞﻣﺎﺷ ﮡٽﺑ ڪﻫ ءِﻻ﻿ ﮡﺋﺎڪﻟ ﻥﻮﻴﺷ ﻑﺮﺻ-ﻦﺸڪﻴﻠڪ ﻲﺗ."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ﻑﺮﺻ-ﻮﻋﻮﻤﺠﻣ ﻮﻳﺎڪﻟ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ﻮﻴﻠﻣ ﻪﻧ ﺞﻳﺭﻮٽﺳﺍ ﺭﺯﻮﺋﺍﺮﺑ ﻪﺑ ﻮڪ"
+  },
+  "notSavingState": {
+    "message": "ﻪﻧ ﮡﺋﺎﭽﺑ ﻲﮐ ﺖﺳﺎﻳﺭ"
+  },
+  "returningDefaultState": {
+    "message": "ﺖﻟﺎﺣ ٽﻟﺎﻓڊ ﻲﺴﭘﺍﻭ"
+  }
+}

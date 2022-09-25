@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay සඳහා එකතුව-පමණක් බොත්තම සඟවන්න"},"extensionDescription":{"message ":"eBay හි එකතු කිරීම්-පමණි අයිතම සැඟවීමට බොත්තමක් එක් කරයි."},"hideCollectionOnlyButtonTitle":{"message ":"එකතුව-පමණක් සඟවන්න"},"noBrowserStorageFound":{"message ":"බ්u200dරවුසර ගබඩාවක් හමු නොවීය"},"notSavingState":{"message ":"රාජ්ය සුරැකීම නොවේ"},"returningDefaultState":{"message ":"ආපසු එන පෙරනිමි තත්ත්වය"}}
+{
+  "extensionName": {
+    "message": "eBay සඳහා එකතුව-පමණක් බොත්තම සඟවන්න"
+  },
+  "extensionDescription": {
+    "message": "eBay හි එකතු කිරීම්-පමණි අයිතම සැඟවීමට බොත්තමක් එක් කරයි."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "එකතුව-පමණක් සඟවන්න"
+  },
+  "noBrowserStorageFound": {
+    "message": "බ්u200dරවුසර ගබඩාවක් හමු නොවීය"
+  },
+  "notSavingState": {
+    "message": "රාජ්ය සුරැකීම නොවේ"
+  },
+  "returningDefaultState": {
+    "message": "ආපසු එන පෙරනිමි තත්ත්වය"
+  }
+}

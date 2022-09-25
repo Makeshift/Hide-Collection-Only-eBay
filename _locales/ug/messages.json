@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"EBay ﯓﯗﺭﯘﺷﻮﻳ ﻼ﻿ﯩﻨﯩﺴﯩﻜﭘﯘﻧﯘﻛ ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﻥﯜﭼﯜﺋ"},"extensionDescription":{"message ":"EBay ﯗﺪﯩﺷﻮﻗ ﺎﻜﭘﯘﻧﯘﻛ ﺮﯩﺑ ﻥﯜﭼﯜﺋ ﺵﯗﺭﯘﺷﻮﻳ ﻼ﻿ﯩﻨﯨﺮﯩﻟﺭﯜﺗ ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﻰﻜﯨﺩ."},"hideCollectionOnlyButtonTitle":{"message ":"                                                                                                                                                                                              ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﺕەﻗەﭘ"},"noBrowserStorageFound":{"message ":"                                                                                                                                                                                             ﻯﺪﯩﻤﻠﯩﭙﯧﺗ ﯜﮔﺭﯚﻛﺭﻮﺗ"},"notSavingState":{"message ":"                                                                                                                                                                                         ﯗﺪﻳﺎﻤﻟﺎﻗ ﭖەﺠﯧﺗ ﻰﻨﺗەﻟﯙﺩ"},"returningDefaultState":{"message ":"                                                                                                                                                                                     ﺵﯗﺭﯘﺘﻳﺎﻗ ﻰﻨﺗەﻟﺎﮬ ﻰﻜﯩﺘﺗﯜﻛﯜﺳ"}}
+{
+  "extensionName": {
+    "message": "EBay ﯓﯗﺭﯘﺷﻮﻳ ﻼ﻿ﯩﻨﯩﺴﯩﻜﭘﯘﻧﯘﻛ ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﻥﯜﭼﯜﺋ"
+  },
+  "extensionDescription": {
+    "message": "EBay ﯗﺪﯩﺷﻮﻗ ﺎﻜﭘﯘﻧﯘﻛ ﺮﯩﺑ ﻥﯜﭼﯜﺋ ﺵﯗﺭﯘﺷﻮﻳ ﻼ﻿ﯩﻨﯨﺮﯩﻟﺭﯜﺗ ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﻰﻜﯨﺩ."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﺕەﻗەﭘ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ﻯﺪﯩﻤﻠﯩﭙﯧﺗ ﯜﮔﺭﯚﻛﺭﻮﺗ"
+  },
+  "notSavingState": {
+    "message": "ﯗﺪﻳﺎﻤﻟﺎﻗ ﭖەﺠﯧﺗ ﻰﻨﺗەﻟﯙﺩ"
+  },
+  "returningDefaultState": {
+    "message": "ﺵﯗﺭﯘﺘﻳﺎﻗ ﻰﻨﺗەﻟﺎﮬ ﻰﻜﯩﺘﺗﯜﻛﯜﺳ"
+  }
+}

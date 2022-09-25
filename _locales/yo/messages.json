@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Tọju Gbigba-nikan Bọtini fun eBay"},"extensionDescription":{"message ":"Ṣafikun bọtini kan lati tọju Gbigba-nikan awọn nkan lori eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Tọju Gbigba-Nikan"},"noBrowserStorageFound":{"message ":"Ko si ibi ipamọ ẹrọ aṣawakiri ti a rii"},"notSavingState":{"message ":"ko fifipamọ ipinle"},"returningDefaultState":{"message ":"pada aiyipada ipinle"}}
+{
+  "extensionName": {
+    "message": "Tọju Gbigba-nikan Bọtini fun eBay"
+  },
+  "extensionDescription": {
+    "message": "Ṣafikun bọtini kan lati tọju Gbigba-nikan awọn nkan lori eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Tọju Gbigba-Nikan"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ko si ibi ipamọ ẹrọ aṣawakiri ti a rii"
+  },
+  "notSavingState": {
+    "message": "ko fifipamọ ipinle"
+  },
+  "returningDefaultState": {
+    "message": "pada aiyipada ipinle"
+  }
+}

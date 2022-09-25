@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Скрыть кнопку «Только коллекция» для eBay"},"extensionDescription":{"message ":"Добавляет кнопку, чтобы скрыть предметы только для коллекции на eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Скрыть только для коллекции"},"noBrowserStorageFound":{"message ":"Хранилище браузера не найдено"},"notSavingState":{"message ":"не сохраняет состояние"},"returningDefaultState":{"message ":"возвращение состояния по умолчанию"}}
+{
+  "extensionName": {
+    "message": "Скрыть кнопку «Только коллекция» для eBay"
+  },
+  "extensionDescription": {
+    "message": "Добавляет кнопку, чтобы скрыть предметы только для коллекции на eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Скрыть только для коллекции"
+  },
+  "noBrowserStorageFound": {
+    "message": "Хранилище браузера не найдено"
+  },
+  "notSavingState": {
+    "message": "не сохраняет состояние"
+  },
+  "returningDefaultState": {
+    "message": "возвращение состояния по умолчанию"
+  }
+}

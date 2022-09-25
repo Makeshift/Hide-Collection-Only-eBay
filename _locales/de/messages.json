@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Nur-Sammel-Schaltfläche für eBay ausblenden"},"extensionDescription":{"message ":"Fügt eine Schaltfläche zum Ausblenden von Nur-Abhol-Artikeln bei eBay hinzu."},"hideCollectionOnlyButtonTitle":{"message ":"Nur Sammlung ausblenden"},"noBrowserStorageFound":{"message ":"Kein Browserspeicher gefunden"},"notSavingState":{"message ":"Zustand nicht speichern"},"returningDefaultState":{"message ":"Standardzustand zurückgeben"}}
+{
+  "extensionName": {
+    "message": "Nur-Sammel-Schaltfläche für eBay ausblenden"
+  },
+  "extensionDescription": {
+    "message": "Fügt eine Schaltfläche zum Ausblenden von Nur-Abhol-Artikeln bei eBay hinzu."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Nur Sammlung ausblenden"
+  },
+  "noBrowserStorageFound": {
+    "message": "Kein Browserspeicher gefunden"
+  },
+  "notSavingState": {
+    "message": "Zustand nicht speichern"
+  },
+  "returningDefaultState": {
+    "message": "Standardzustand zurückgeben"
+  }
+}

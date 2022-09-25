@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Pata Konopo ea Pokello Feela bakeng sa eBay"},"extensionDescription":{"message ":"E kenya konopo ho pata lintho tsa Pokello-Feela ho eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Pata Pokello Feela"},"noBrowserStorageFound":{"message ":"Ha ho polokelo ea sebatli e fumanoeng"},"notSavingState":{"message ":"ho se boloke boemo"},"returningDefaultState":{"message ":"boemo ba kamehla ba ho kgutlisa"}}
+{
+  "extensionName": {
+    "message": "Pata Konopo ea Pokello Feela bakeng sa eBay"
+  },
+  "extensionDescription": {
+    "message": "E kenya konopo ho pata lintho tsa Pokello-Feela ho eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Pata Pokello Feela"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ha ho polokelo ea sebatli e fumanoeng"
+  },
+  "notSavingState": {
+    "message": "ho se boloke boemo"
+  },
+  "returningDefaultState": {
+    "message": "boemo ba kamehla ba ho kgutlisa"
+  }
+}

@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"EBay üçin diňe kolleksiýa düwmesini gizläň"},"extensionDescription":{"message ":"EBay-da Diňe Kolleksiýa elementlerini gizlemek üçin düwme goşýar."},"hideCollectionOnlyButtonTitle":{"message ":"Diňe kolleksiýany gizläň"},"noBrowserStorageFound":{"message ":"Brauzer ammary tapylmady"},"notSavingState":{"message ":"ýagdaýy tygşytlamaz"},"returningDefaultState":{"message ":"gaýybana ýagdaýy"}}
+{
+  "extensionName": {
+    "message": "EBay üçin diňe kolleksiýa düwmesini gizläň"
+  },
+  "extensionDescription": {
+    "message": "EBay-da Diňe Kolleksiýa elementlerini gizlemek üçin düwme goşýar."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Diňe kolleksiýany gizläň"
+  },
+  "noBrowserStorageFound": {
+    "message": "Brauzer ammary tapylmady"
+  },
+  "notSavingState": {
+    "message": "ýagdaýy tygşytlamaz"
+  },
+  "returningDefaultState": {
+    "message": "gaýybana ýagdaýy"
+  }
+}

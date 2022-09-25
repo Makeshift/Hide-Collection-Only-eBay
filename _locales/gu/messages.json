@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay માટે માત્ર સંગ્રહ બટન છુપાવો"},"extensionDescription":{"message ":"eBay પર માત્ર-કલેક્શન આઇટમ્સને છુપાવવા માટે એક બટન ઉમેરે છે."},"hideCollectionOnlyButtonTitle":{"message ":"માત્ર-સંગ્રહ છુપાવો"},"noBrowserStorageFound":{"message ":"કોઈ બ્રાઉઝર સ્ટોરેજ મળ્યું નથી"},"notSavingState":{"message ":"રાજ્ય સાચવતું નથી"},"returningDefaultState":{"message ":"ડિફૉલ્ટ સ્થિતિ પરત કરી રહ્યું છે"}}
+{
+  "extensionName": {
+    "message": "eBay માટે માત્ર સંગ્રહ બટન છુપાવો"
+  },
+  "extensionDescription": {
+    "message": "eBay પર માત્ર-કલેક્શન આઇટમ્સને છુપાવવા માટે એક બટન ઉમેરે છે."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "માત્ર-સંગ્રહ છુપાવો"
+  },
+  "noBrowserStorageFound": {
+    "message": "કોઈ બ્રાઉઝર સ્ટોરેજ મળ્યું નથી"
+  },
+  "notSavingState": {
+    "message": "રાજ્ય સાચવતું નથી"
+  },
+  "returningDefaultState": {
+    "message": "ડિફૉલ્ટ સ્થિતિ પરત કરી રહ્યું છે"
+  }
+}

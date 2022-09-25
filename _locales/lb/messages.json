@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Verstoppen Collection-Only Button fir eBay"},"extensionDescription":{"message ":"Füügt e Knäppchen fir d'Sammlung-Nëmmen Artikelen op eBay ze verstoppen."},"hideCollectionOnlyButtonTitle":{"message ":"Verstoppen Kollektioun-Nëmmen"},"noBrowserStorageFound":{"message ":"Kee Browserlagerung fonnt"},"notSavingState":{"message ":"net spueren Staat"},"returningDefaultState":{"message ":"zréckginn Default Staat"}}
+{
+  "extensionName": {
+    "message": "Verstoppen Collection-Only Button fir eBay"
+  },
+  "extensionDescription": {
+    "message": "Füügt e Knäppchen fir d'Sammlung-Nëmmen Artikelen op eBay ze verstoppen."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Verstoppen Kollektioun-Nëmmen"
+  },
+  "noBrowserStorageFound": {
+    "message": "Kee Browserlagerung fonnt"
+  },
+  "notSavingState": {
+    "message": "net spueren Staat"
+  },
+  "returningDefaultState": {
+    "message": "zréckginn Default Staat"
+  }
+}

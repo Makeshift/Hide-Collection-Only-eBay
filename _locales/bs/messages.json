@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Sakrij dugme samo za kolekciju za eBay"},"extensionDescription":{"message ":"Dodaje dugme za skrivanje stavki samo za kolekciju na eBayu."},"hideCollectionOnlyButtonTitle":{"message ":"Sakrij samo kolekciju"},"noBrowserStorageFound":{"message ":"Nije pronađena pohrana pretraživača"},"notSavingState":{"message ":"ne čuva stanje"},"returningDefaultState":{"message ":"vraćanje zadanog stanja"}}
+{
+  "extensionName": {
+    "message": "Sakrij dugme samo za kolekciju za eBay"
+  },
+  "extensionDescription": {
+    "message": "Dodaje dugme za skrivanje stavki samo za kolekciju na eBayu."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Sakrij samo kolekciju"
+  },
+  "noBrowserStorageFound": {
+    "message": "Nije pronađena pohrana pretraživača"
+  },
+  "notSavingState": {
+    "message": "ne čuva stanje"
+  },
+  "returningDefaultState": {
+    "message": "vraćanje zadanog stanja"
+  }
+}

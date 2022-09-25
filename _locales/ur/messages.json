@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"                                                                                                                                                                           ۔ﮟﯿﺋﺎﭙﮭﭼ ﻦﭩﺑ ﻦﺸﮑﯿﻠﮐ ﻑﺮﺻ ﮯﯿﻟ ﮯﮐ ﮯﺑ ﯼﺍ"},"extensionDescription":{"message ":"                                                                                                                                               ۔ﮯﮨ ﺎﺗﺮﮐ ﻞﻣﺎﺷ ﻦﭩﺑ ﮏﯾﺍ ﮯﯿﻟ ﮯﮐ ﮯﻧﺎﭙﮭﭼ ﻮﮐ ﺰﻤﭩﺋﺁ ﻦﺸﮑﯿﻠﮐ ﻑﺮﺻ ﺮﭘ ﮯﺑ ﯼﺍ"},"hideCollectionOnlyButtonTitle":{"message ":"                                                                                                                                                                                            ۔ﮟﯿﺋﺎﭙﮭﭼ ﮧﻋﻮﻤﺠﻣ ﻑﺮﺻ"},"noBrowserStorageFound":{"message ":"                                                                                                                                                                                    ﻼ﻿ﻣ ﮟﯿﮩﻧ ﺞﯾﺭﻮﭩﺳﺍ ﺭﺯﺅﺍﺮﺑ ﯽﺋﻮﮐ"},"notSavingState":{"message ":"                                                                                                                                                                                            ﺎﻧﺎﭽﺑ ﮟﯿﮩﻧ ﻮﮐ ﺖﺳﺎﯾﺭ"},"returningDefaultState":{"message ":"                                                                                                                                                                               ﺎﻧﺮﮐ ﺲﭘﺍﻭ ﻮﮐ ﺖﻟﺎﺣ ﮦﺪﺷ ﮯﻃ ﮯﺳ ﮯﻠﮩﭘ"}}
+{
+  "extensionName": {
+    "message": "۔ﮟﯿﺋﺎﭙﮭﭼ ﻦﭩﺑ ﻦﺸﮑﯿﻠﮐ ﻑﺮﺻ ﮯﯿﻟ ﮯﮐ ﮯﺑ ﯼﺍ"
+  },
+  "extensionDescription": {
+    "message": "۔ﮯﮨ ﺎﺗﺮﮐ ﻞﻣﺎﺷ ﻦﭩﺑ ﮏﯾﺍ ﮯﯿﻟ ﮯﮐ ﮯﻧﺎﭙﮭﭼ ﻮﮐ ﺰﻤﭩﺋﺁ ﻦﺸﮑﯿﻠﮐ ﻑﺮﺻ ﺮﭘ ﮯﺑ ﯼﺍ"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "۔ﮟﯿﺋﺎﭙﮭﭼ ﮧﻋﻮﻤﺠﻣ ﻑﺮﺻ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ﻼ﻿ﻣ ﮟﯿﮩﻧ ﺞﯾﺭﻮﭩﺳﺍ ﺭﺯﺅﺍﺮﺑ ﯽﺋﻮﮐ"
+  },
+  "notSavingState": {
+    "message": "ﺎﻧﺎﭽﺑ ﮟﯿﮩﻧ ﻮﮐ ﺖﺳﺎﯾﺭ"
+  },
+  "returningDefaultState": {
+    "message": "ﺎﻧﺮﮐ ﺲﭘﺍﻭ ﻮﮐ ﺖﻟﺎﺣ ﮦﺪﺷ ﮯﻃ ﮯﺳ ﮯﻠﮩﭘ"
+  }
+}

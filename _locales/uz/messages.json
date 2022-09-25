@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay uchun faqat to'plamni yashirish tugmasi"},"extensionDescription":{"message ":"eBay-da faqat to'plamdagi narsalarni yashirish uchun tugma qo'shiladi."},"hideCollectionOnlyButtonTitle":{"message ":"Faqat to'plamni yashirish"},"noBrowserStorageFound":{"message ":"Brauzer xotirasi topilmadi"},"notSavingState":{"message ":"davlatni saqlamaydi"},"returningDefaultState":{"message ":"standart holatni qaytarish"}}
+{
+  "extensionName": {
+    "message": "eBay uchun faqat to'plamni yashirish tugmasi"
+  },
+  "extensionDescription": {
+    "message": "eBay-da faqat to'plamdagi narsalarni yashirish uchun tugma qo'shiladi."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Faqat to'plamni yashirish"
+  },
+  "noBrowserStorageFound": {
+    "message": "Brauzer xotirasi topilmadi"
+  },
+  "notSavingState": {
+    "message": "davlatni saqlamaydi"
+  },
+  "returningDefaultState": {
+    "message": "standart holatni qaytarish"
+  }
+}

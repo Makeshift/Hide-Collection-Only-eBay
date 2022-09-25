@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"                                                                                                                                                                          eBay ראַפֿ לפּענק זיולב ןאַשקעלאַק ןטלאַהאַב"},"extensionDescription":{"message ":"                                                                                                                                                      .eBay ףיוא ןכאז זיולב-גנולמאַז יד ןטלאַהאַב וצ לפּענק אַ טגייל"},"hideCollectionOnlyButtonTitle":{"message ":"                                                                                                                                                                                         זיולב ןאַשקעלאַק ןטלאַהאַב"},"noBrowserStorageFound":{"message ":"                                                                                                                                                                                 ןענופֿעג שזדיראָטס רערעטעלב ןייק"},"notSavingState":{"message ":"                                                                                                                                                                                                 טאַטש ןראָפּש טינ"},"returningDefaultState":{"message ":"                                                                                                                                                                                        טאַטש טיַיקילעפ טרעקעגמוא"}}
+{
+  "extensionName": {
+    "message": "eBay ראַפֿ לפּענק זיולב ןאַשקעלאַק ןטלאַהאַב"
+  },
+  "extensionDescription": {
+    "message": ".eBay ףיוא ןכאז זיולב-גנולמאַז יד ןטלאַהאַב וצ לפּענק אַ טגייל"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "זיולב ןאַשקעלאַק ןטלאַהאַב"
+  },
+  "noBrowserStorageFound": {
+    "message": "ןענופֿעג שזדיראָטס רערעטעלב ןייק"
+  },
+  "notSavingState": {
+    "message": "טאַטש ןראָפּש טינ"
+  },
+  "returningDefaultState": {
+    "message": "טאַטש טיַיקילעפ טרעקעגמוא"
+  }
+}

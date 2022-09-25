@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"隱藏 eBay 的僅收藏按鈕"},"extensionDescription":{"message ":"添加一個按鈕以隱藏 eBay 上僅限收藏的項目。"},"hideCollectionOnlyButtonTitle":{"message ":"僅隱藏收藏"},"noBrowserStorageFound":{"message ":"未找到瀏覽器存儲"},"notSavingState":{"message ":"不保存狀態"},"returningDefaultState":{"message ":"返回默認狀態"}}
+{
+  "extensionName": {
+    "message": "隱藏 eBay 的僅收藏按鈕"
+  },
+  "extensionDescription": {
+    "message": "添加一個按鈕以隱藏 eBay 上僅限收藏的項目。"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "僅隱藏收藏"
+  },
+  "noBrowserStorageFound": {
+    "message": "未找到瀏覽器存儲"
+  },
+  "notSavingState": {
+    "message": "不保存狀態"
+  },
+  "returningDefaultState": {
+    "message": "返回默認狀態"
+  }
+}

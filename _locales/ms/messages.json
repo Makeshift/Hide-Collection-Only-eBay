@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Sembunyikan Butang Koleksi Sahaja untuk eBay"},"extensionDescription":{"message ":"Menambahkan butang untuk menyembunyikan item Koleksi Sahaja di eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Sembunyikan Koleksi-Sahaja"},"noBrowserStorageFound":{"message ":"Tiada storan penyemak imbas ditemui"},"notSavingState":{"message ":"tidak menyelamatkan negeri"},"returningDefaultState":{"message ":"mengembalikan keadaan lalai"}}
+{
+  "extensionName": {
+    "message": "Sembunyikan Butang Koleksi Sahaja untuk eBay"
+  },
+  "extensionDescription": {
+    "message": "Menambahkan butang untuk menyembunyikan item Koleksi Sahaja di eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Sembunyikan Koleksi-Sahaja"
+  },
+  "noBrowserStorageFound": {
+    "message": "Tiada storan penyemak imbas ditemui"
+  },
+  "notSavingState": {
+    "message": "tidak menyelamatkan negeri"
+  },
+  "returningDefaultState": {
+    "message": "mengembalikan keadaan lalai"
+  }
+}

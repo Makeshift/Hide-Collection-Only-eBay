@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"                                                                                                                                                                           eBay ﯼﺍﺮﺑ ﻪﻋﻮﻤﺠﻣ ﻂﻘﻓ ﻪﻤﮐﺩ ﻥﺩﺮﮐ ﻥﺎﻬﻨﭘ"},"extensionDescription":{"message ":"                                                                                                                                                 .ﺪﻨﮐ ﯽﻣ ﻪﻓﺎﺿﺍ eBay ﺭﺩ ﻪﻋﻮﻤﺠﻣ ﻂﻘﻓ ﺩﺭﺍﻮﻣ ﻥﺩﺮﮐ ﻥﺎﻬﻨﭘ ﯼﺍﺮﺑ ﯼﺍ ﻪﻤﮐﺩ"},"hideCollectionOnlyButtonTitle":{"message ":"                                                                                                                                                                                           ﻂﻘﻓ ﻪﻋﻮﻤﺠﻣ ﻥﺩﺮﮐ ﯽﻔﺨﻣ"},"noBrowserStorageFound":{"message ":"                                                                                                                                                                                ﺪﺸﻧ ﺍﺪﯿﭘ ﺮﮔﺭﻭﺮﻣ ﯼﺯﺎﺳ ﻩﺮﯿﺧﺫ ﯼﺎﻀﻓ"},"notSavingState":{"message ":"                                                                                                                                                                                                ﻥﺪﺸﻧ ﻩﺮﯿﺧﺫ ﺖﻟﺎﺣ"},"returningDefaultState":{"message ":"                                                                                                                                                                                         ﺽﺮﻓ ﺶﯿﭘ ﺖﻟﺎﺣ ﻪﺑ ﺖﺸﮔﺯﺎﺑ"}}
+{
+  "extensionName": {
+    "message": "eBay ﯼﺍﺮﺑ ﻪﻋﻮﻤﺠﻣ ﻂﻘﻓ ﻪﻤﮐﺩ ﻥﺩﺮﮐ ﻥﺎﻬﻨﭘ"
+  },
+  "extensionDescription": {
+    "message": ".ﺪﻨﮐ ﯽﻣ ﻪﻓﺎﺿﺍ eBay ﺭﺩ ﻪﻋﻮﻤﺠﻣ ﻂﻘﻓ ﺩﺭﺍﻮﻣ ﻥﺩﺮﮐ ﻥﺎﻬﻨﭘ ﯼﺍﺮﺑ ﯼﺍ ﻪﻤﮐﺩ"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ﻂﻘﻓ ﻪﻋﻮﻤﺠﻣ ﻥﺩﺮﮐ ﯽﻔﺨﻣ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ﺪﺸﻧ ﺍﺪﯿﭘ ﺮﮔﺭﻭﺮﻣ ﯼﺯﺎﺳ ﻩﺮﯿﺧﺫ ﯼﺎﻀﻓ"
+  },
+  "notSavingState": {
+    "message": "ﻥﺪﺸﻧ ﻩﺮﯿﺧﺫ ﺖﻟﺎﺣ"
+  },
+  "returningDefaultState": {
+    "message": "ﺽﺮﻓ ﺶﯿﭘ ﺖﻟﺎﺣ ﻪﺑ ﺖﺸﮔﺯﺎﺑ"
+  }
+}

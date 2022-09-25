@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Natia le Aoina-Na'o le ki mo eBay"},"extensionDescription":{"message ":"Fa'aopoopo se fa'amau e nana ai le Aoina-Na'o mea i luga ole eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Nana Aoina-Na'o"},"noBrowserStorageFound":{"message ":"Leai se mea e teu ai su'esu'ega na maua"},"notSavingState":{"message ":"le sefe setete"},"returningDefaultState":{"message ":"toe faafoi tulaga faaletonu"}}
+{
+  "extensionName": {
+    "message": "Natia le Aoina-Na'o le ki mo eBay"
+  },
+  "extensionDescription": {
+    "message": "Fa'aopoopo se fa'amau e nana ai le Aoina-Na'o mea i luga ole eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Nana Aoina-Na'o"
+  },
+  "noBrowserStorageFound": {
+    "message": "Leai se mea e teu ai su'esu'ega na maua"
+  },
+  "notSavingState": {
+    "message": "le sefe setete"
+  },
+  "returningDefaultState": {
+    "message": "toe faafoi tulaga faaletonu"
+  }
+}

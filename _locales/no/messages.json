@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Skjul kun samlingsknapp for eBay"},"extensionDescription":{"message ":"Legger til en knapp for å skjule gjenstander med kun samling på eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Skjul kun samling"},"noBrowserStorageFound":{"message ":"Fant ingen nettleserlagring"},"notSavingState":{"message ":"ikke lagrer tilstand"},"returningDefaultState":{"message ":"returnerer standardtilstand"}}
+{
+  "extensionName": {
+    "message": "Skjul kun samlingsknapp for eBay"
+  },
+  "extensionDescription": {
+    "message": "Legger til en knapp for å skjule gjenstander med kun samling på eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Skjul kun samling"
+  },
+  "noBrowserStorageFound": {
+    "message": "Fant ingen nettleserlagring"
+  },
+  "notSavingState": {
+    "message": "ikke lagrer tilstand"
+  },
+  "returningDefaultState": {
+    "message": "returnerer standardtilstand"
+  }
+}

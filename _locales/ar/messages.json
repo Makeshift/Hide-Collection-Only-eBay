@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"                                                                                                                                                                                eBay ﻊﻗﻮﻤﻟ ﻂﻘﻓ ﻊﻴﻤﺠﺘﻟﺍ ﺭﺯ ءﺎﻔﺧﺇ"},"extensionDescription":{"message ":"                                                                                                                                                                    .eBay ﻰﻠﻋ ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺮﺻﺎﻨﻋ ءﺎﻔﺧﻹ﻿ ﺍﺭًﺯ ﻒﻴﻀﻳ"},"hideCollectionOnlyButtonTitle":{"message ":"                                                                                                                                                                                             ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ءﺎﻔﺧﺇ"},"noBrowserStorageFound":{"message ":"                                                                                                                                                                                ﺢﻔﺼﺘﻤﻠﻟ ﻦﻳﺰﺨﺗ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ"},"notSavingState":{"message ":"                                                                                                                                                                                                  ﺔﻟﻭﺪﻟﺍ ﻆﻔﺤﺗ ﻻ﻿"},"returningDefaultState":{"message ":"                                                                                                                                                                                         ﺔﻴﺿﺍﺮﺘﻓﻻ﻿ﺍ ﺔﻟﺎﺤﻟﺍ ﻉﺎﺟﺭﺇ"}}
+{
+  "extensionName": {
+    "message": "eBay ﻊﻗﻮﻤﻟ ﻂﻘﻓ ﻊﻴﻤﺠﺘﻟﺍ ﺭﺯ ءﺎﻔﺧﺇ"
+  },
+  "extensionDescription": {
+    "message": ".eBay ﻰﻠﻋ ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺮﺻﺎﻨﻋ ءﺎﻔﺧﻹ﻿ ﺍﺭًﺯ ﻒﻴﻀﻳ"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ءﺎﻔﺧﺇ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ﺢﻔﺼﺘﻤﻠﻟ ﻦﻳﺰﺨﺗ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ"
+  },
+  "notSavingState": {
+    "message": "ﺔﻟﻭﺪﻟﺍ ﻆﻔﺤﺗ ﻻ﻿"
+  },
+  "returningDefaultState": {
+    "message": "ﺔﻴﺿﺍﺮﺘﻓﻻ﻿ﺍ ﺔﻟﺎﺤﻟﺍ ﻉﺎﺟﺭﺇ"
+  }
+}

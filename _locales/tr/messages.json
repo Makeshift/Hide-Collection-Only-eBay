@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay için Yalnızca Koleksiyon Düğmesini Gizle"},"extensionDescription":{"message ":"eBay'de Yalnızca Koleksiyon öğelerini gizlemek için bir düğme ekler."},"hideCollectionOnlyButtonTitle":{"message ":"Yalnızca Koleksiyonu Gizle"},"noBrowserStorageFound":{"message ":"Tarayıcı depolama alanı bulunamadı"},"notSavingState":{"message ":"durumu kaydetmemek"},"returningDefaultState":{"message ":"varsayılan durumu döndürme"}}
+{
+  "extensionName": {
+    "message": "eBay için Yalnızca Koleksiyon Düğmesini Gizle"
+  },
+  "extensionDescription": {
+    "message": "eBay'de Yalnızca Koleksiyon öğelerini gizlemek için bir düğme ekler."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Yalnızca Koleksiyonu Gizle"
+  },
+  "noBrowserStorageFound": {
+    "message": "Tarayıcı depolama alanı bulunamadı"
+  },
+  "notSavingState": {
+    "message": "durumu kaydetmemek"
+  },
+  "returningDefaultState": {
+    "message": "varsayılan durumu döndürme"
+  }
+}

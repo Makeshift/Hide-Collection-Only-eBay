@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"                                                                                                                                                                      ﺉړﮐ ټﭘ ۍڼﺗ ﻮﻟﻮﻟﻮټﺍﺭ ﺩ ﯤﺯﺍﻮﯾ ﻩﺭﺎﭙﻟ ﯽﺑ ﯼﺍ ﺩ"},"extensionDescription":{"message ":"                                                                                                                                                   .ﻱﻮﮐ ﻪﻓﺎﺿﺍ ۍڼﺗ ﻩﺭﺎﭙﻟ ﻮﻟﻮټﭘ ﻲﮐﻮﺗ ﻮﻟﻮﻟﻮټﺍﺭ ﺩ ﯤﺯﺍﻮﯾ ﯥﮐ ﯽﺑ ﯼﺍ ﻪﭘ"},"hideCollectionOnlyButtonTitle":{"message ":"                                                                                                                                                                                           ﺉړﮐ ټﭘ ﻝﻮﻟﻮټﺍﺭ ﯤﺯﺍﻮﯾ"},"noBrowserStorageFound":{"message ":"                                                                                                                                                                                   ﻩﻮﺷ ﻝﺪﻧﻮﻣ ﻪﻧﻭ ﻩﺮﯿﺧﺫ ﺭﺯﻭﺍﺮﺑ ﺩ"},"notSavingState":{"message ":"                                                                                                                                                                                                  ﻱﺭﻮﻏﮊ ﻪﻧ ﺖﻟﻭﺩ"},"returningDefaultState":{"message ":"                                                                                                                                                                                         ﺖﻟﺎﺣ ﻲﮑﻧﻭﺪﯿﻨﺘﺳﺍﺭ ﻪﺗﺮﯿﺑ"}}
+{
+  "extensionName": {
+    "message": "ﺉړﮐ ټﭘ ۍڼﺗ ﻮﻟﻮﻟﻮټﺍﺭ ﺩ ﯤﺯﺍﻮﯾ ﻩﺭﺎﭙﻟ ﯽﺑ ﯼﺍ ﺩ"
+  },
+  "extensionDescription": {
+    "message": ".ﻱﻮﮐ ﻪﻓﺎﺿﺍ ۍڼﺗ ﻩﺭﺎﭙﻟ ﻮﻟﻮټﭘ ﻲﮐﻮﺗ ﻮﻟﻮﻟﻮټﺍﺭ ﺩ ﯤﺯﺍﻮﯾ ﯥﮐ ﯽﺑ ﯼﺍ ﻪﭘ"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ﺉړﮐ ټﭘ ﻝﻮﻟﻮټﺍﺭ ﯤﺯﺍﻮﯾ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ﻩﻮﺷ ﻝﺪﻧﻮﻣ ﻪﻧﻭ ﻩﺮﯿﺧﺫ ﺭﺯﻭﺍﺮﺑ ﺩ"
+  },
+  "notSavingState": {
+    "message": "ﻱﺭﻮﻏﮊ ﻪﻧ ﺖﻟﻭﺩ"
+  },
+  "returningDefaultState": {
+    "message": "ﺖﻟﺎﺣ ﻲﮑﻧﻭﺪﯿﻨﺘﺳﺍﺭ ﻪﺗﺮﯿﺑ"
+  }
+}

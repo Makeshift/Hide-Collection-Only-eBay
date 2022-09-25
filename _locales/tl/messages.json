@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Itago ang Collection-Only Button para sa eBay"},"extensionDescription":{"message ":"Nagdaragdag ng button para itago ang Collection-Only na mga item sa eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Itago ang Koleksyon-Lamang"},"noBrowserStorageFound":{"message ":"Walang nakitang imbakan ng browser"},"notSavingState":{"message ":"hindi nagse-save ng estado"},"returningDefaultState":{"message ":"bumabalik na default na estado"}}
+{
+  "extensionName": {
+    "message": "Itago ang Collection-Only Button para sa eBay"
+  },
+  "extensionDescription": {
+    "message": "Nagdaragdag ng button para itago ang Collection-Only na mga item sa eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Itago ang Koleksyon-Lamang"
+  },
+  "noBrowserStorageFound": {
+    "message": "Walang nakitang imbakan ng browser"
+  },
+  "notSavingState": {
+    "message": "hindi nagse-save ng estado"
+  },
+  "returningDefaultState": {
+    "message": "bumabalik na default na estado"
+  }
+}

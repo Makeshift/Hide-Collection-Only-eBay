@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay үчүн Коллекцияны гана жашыруу баскычы"},"extensionDescription":{"message ":"eBay'де Коллекцияга гана тиешелүү нерселерди жашыруу үчүн баскычты кошот."},"hideCollectionOnlyButtonTitle":{"message ":"Жыйнакты гана жашыруу"},"noBrowserStorageFound":{"message ":"Серепчи сактагыч табылган жок"},"notSavingState":{"message ":"мамлекетти сактап калбайт"},"returningDefaultState":{"message ":"демейки абалды кайтаруу"}}
+{
+  "extensionName": {
+    "message": "eBay үчүн Коллекцияны гана жашыруу баскычы"
+  },
+  "extensionDescription": {
+    "message": "eBay'де Коллекцияга гана тиешелүү нерселерди жашыруу үчүн баскычты кошот."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Жыйнакты гана жашыруу"
+  },
+  "noBrowserStorageFound": {
+    "message": "Серепчи сактагыч табылган жок"
+  },
+  "notSavingState": {
+    "message": "мамлекетти сактап калбайт"
+  },
+  "returningDefaultState": {
+    "message": "демейки абалды кайтаруу"
+  }
+}

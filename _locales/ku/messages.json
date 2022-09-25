@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Ji bo eBay Bişkojka Tenê Koleksiyonê Veşêre"},"extensionDescription":{"message ":"Bişkokek lê zêde dike ku li ser eBay tiştên Tenê Koleksiyonê veşêre."},"hideCollectionOnlyButtonTitle":{"message ":"Veşêre Koleksiyon-Tenê"},"noBrowserStorageFound":{"message ":"Depoya gerokê nehat dîtin"},"notSavingState":{"message ":"dewletê rizgar nake"},"returningDefaultState":{"message ":"vedigere rewşa xwerû"}}
+{
+  "extensionName": {
+    "message": "Ji bo eBay Bişkojka Tenê Koleksiyonê Veşêre"
+  },
+  "extensionDescription": {
+    "message": "Bişkokek lê zêde dike ku li ser eBay tiştên Tenê Koleksiyonê veşêre."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Veşêre Koleksiyon-Tenê"
+  },
+  "noBrowserStorageFound": {
+    "message": "Depoya gerokê nehat dîtin"
+  },
+  "notSavingState": {
+    "message": "dewletê rizgar nake"
+  },
+  "returningDefaultState": {
+    "message": "vedigere rewşa xwerû"
+  }
+}

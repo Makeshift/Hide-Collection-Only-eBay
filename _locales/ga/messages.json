@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Folaigh Cnaipe Bailiúchán - Amháin le haghaidh eBay"},"extensionDescription":{"message ":"Cuireann sé cnaipe leis chun míreanna Bailiúcháin Amháin a cheilt ar eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Folaigh Bailiúchán - Amháin"},"noBrowserStorageFound":{"message ":"Níor aimsíodh aon stór brabhsálaí"},"notSavingState":{"message ":"ní shábháil stáit"},"returningDefaultState":{"message ":"staid réamhshocraithe ag filleadh"}}
+{
+  "extensionName": {
+    "message": "Folaigh Cnaipe Bailiúchán - Amháin le haghaidh eBay"
+  },
+  "extensionDescription": {
+    "message": "Cuireann sé cnaipe leis chun míreanna Bailiúcháin Amháin a cheilt ar eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Folaigh Bailiúchán - Amháin"
+  },
+  "noBrowserStorageFound": {
+    "message": "Níor aimsíodh aon stór brabhsálaí"
+  },
+  "notSavingState": {
+    "message": "ní shábháil stáit"
+  },
+  "returningDefaultState": {
+    "message": "staid réamhshocraithe ag filleadh"
+  }
+}

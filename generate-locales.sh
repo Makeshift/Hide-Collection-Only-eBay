@@ -4,7 +4,7 @@
 translate_from="_locales/en/messages.json"
 
 # get key-value pairs from the english locale file with a null delimiter for bash
-IFS= readarray -d $'\n' -t pairs < <(jq -r 'to_entries[] | "\(.key).message \u0001 \(.value.message)"' "$translate_from")
+IFS= readarray -d $'\n' -t pairs < <(jq -r 'to_entries[] | "\(.key).message\u0001\(.value.message)"' "$translate_from")
 
 _jq_merge_objects() {
   # Given two json objects, returns the merged object
@@ -79,4 +79,6 @@ for file in _locales/*/messages.json; do
   if [ "$(jq -r 'to_entries[] | select(.value.message == "") | .key' "$file")" ]; then
     echo "Error: $file has a key with no message"
   fi
+  # trim whitespace from every key and value
+  jq 'walk(if type == "object" then with_entries( .key |= gsub("^\\s+|\\s+$";"") ) else . |= gsub("^\\s+|\\s+$";"") end)' "$file" >"$file.tmp" && mv "$file.tmp" "$file"
 done

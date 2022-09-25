@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Пинҳон кардани Тугмаи танҳо коллексия барои eBay"},"extensionDescription":{"message ":"Тугмаеро барои пинҳон кардани ҷузъҳои танҳо коллексия дар eBay илова мекунад."},"hideCollectionOnlyButtonTitle":{"message ":"Танҳо коллексияро пинҳон кунед"},"noBrowserStorageFound":{"message ":"Ягон захираи браузер ёфт нашуд"},"notSavingState":{"message ":"давлатро наҷот намедиҳад"},"returningDefaultState":{"message ":"баргардонидани ҳолати пешфарз"}}
+{
+  "extensionName": {
+    "message": "Пинҳон кардани Тугмаи танҳо коллексия барои eBay"
+  },
+  "extensionDescription": {
+    "message": "Тугмаеро барои пинҳон кардани ҷузъҳои танҳо коллексия дар eBay илова мекунад."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Танҳо коллексияро пинҳон кунед"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ягон захираи браузер ёфт нашуд"
+  },
+  "notSavingState": {
+    "message": "давлатро наҷот намедиҳад"
+  },
+  "returningDefaultState": {
+    "message": "баргардонидани ҳолати пешфарз"
+  }
+}

@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Aħbi Buttuna tal-Ġbir Biss għal eBay"},"extensionDescription":{"message ":"Iżżid buttuna biex taħbi oġġetti tal-Ġbir-Biss fuq eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Aħbi Ġbir-Biss"},"noBrowserStorageFound":{"message ":"Ma nstabet l-ebda ħażna tal-browser"},"notSavingState":{"message ":"ma jsalva l-istat"},"returningDefaultState":{"message ":"li jirritorna l-istat default"}}
+{
+  "extensionName": {
+    "message": "Aħbi Buttuna tal-Ġbir Biss għal eBay"
+  },
+  "extensionDescription": {
+    "message": "Iżżid buttuna biex taħbi oġġetti tal-Ġbir-Biss fuq eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Aħbi Ġbir-Biss"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ma nstabet l-ebda ħażna tal-browser"
+  },
+  "notSavingState": {
+    "message": "ma jsalva l-istat"
+  },
+  "returningDefaultState": {
+    "message": "li jirritorna l-istat default"
+  }
+}

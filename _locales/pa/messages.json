@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay ਲਈ ਸੰਗ੍ਰਹਿ-ਓਨਲੀ ਬਟਨ ਲੁਕਾਓ"},"extensionDescription":{"message ":"eBay 'ਤੇ ਸਿਰਫ਼-ਸੰਗ੍ਰਹਿ ਆਈਟਮਾਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਇੱਕ ਬਟਨ ਜੋੜਦਾ ਹੈ।"},"hideCollectionOnlyButtonTitle":{"message ":"ਸੰਗ੍ਰਹਿ-ਸਿਰਫ਼ ਲੁਕਾਓ"},"noBrowserStorageFound":{"message ":"ਕੋਈ ਬ੍ਰਾਊਜ਼ਰ ਸਟੋਰੇਜ ਨਹੀਂ ਮਿਲੀ"},"notSavingState":{"message ":"ਰਾਜ ਨੂੰ ਬਚਾ ਨਹੀਂ ਰਿਹਾ"},"returningDefaultState":{"message ":"ਪੂਰਵ-ਨਿਰਧਾਰਤ ਸਥਿਤੀ ਵਾਪਸ ਕਰ ਰਿਹਾ ਹੈ"}}
+{
+  "extensionName": {
+    "message": "eBay ਲਈ ਸੰਗ੍ਰਹਿ-ਓਨਲੀ ਬਟਨ ਲੁਕਾਓ"
+  },
+  "extensionDescription": {
+    "message": "eBay 'ਤੇ ਸਿਰਫ਼-ਸੰਗ੍ਰਹਿ ਆਈਟਮਾਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਇੱਕ ਬਟਨ ਜੋੜਦਾ ਹੈ।"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ਸੰਗ੍ਰਹਿ-ਸਿਰਫ਼ ਲੁਕਾਓ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ਕੋਈ ਬ੍ਰਾਊਜ਼ਰ ਸਟੋਰੇਜ ਨਹੀਂ ਮਿਲੀ"
+  },
+  "notSavingState": {
+    "message": "ਰਾਜ ਨੂੰ ਬਚਾ ਨਹੀਂ ਰਿਹਾ"
+  },
+  "returningDefaultState": {
+    "message": "ਪੂਰਵ-ਨਿਰਧਾਰਤ ਸਥਿਤੀ ਵਾਪਸ ਕਰ ਰਿਹਾ ਹੈ"
+  }
+}

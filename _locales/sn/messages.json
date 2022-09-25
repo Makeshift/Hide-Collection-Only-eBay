@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Viga Bhatani rekuunganidza-chete reeBay"},"extensionDescription":{"message ":"Inowedzera bhatani kuviga Kuunganidzwa-Zvinhu chete pa eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Viga Kuunganidza-Chete"},"noBrowserStorageFound":{"message ":"Hapana bhurauza rekuchengetedza rawanikwa"},"notSavingState":{"message ":"kwete kuchengetedza nyika"},"returningDefaultState":{"message ":"kudzorera default mamiriro"}}
+{
+  "extensionName": {
+    "message": "Viga Bhatani rekuunganidza-chete reeBay"
+  },
+  "extensionDescription": {
+    "message": "Inowedzera bhatani kuviga Kuunganidzwa-Zvinhu chete pa eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Viga Kuunganidza-Chete"
+  },
+  "noBrowserStorageFound": {
+    "message": "Hapana bhurauza rekuchengetedza rawanikwa"
+  },
+  "notSavingState": {
+    "message": "kwete kuchengetedza nyika"
+  },
+  "returningDefaultState": {
+    "message": "kudzorera default mamiriro"
+  }
+}

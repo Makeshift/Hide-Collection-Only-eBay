@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Cuddio Botwm Casgliad yn Unig ar gyfer eBay"},"extensionDescription":{"message ":"Yn ychwanegu botwm i guddio eitemau Casgliad yn Unig ar eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Cuddio Casgliad-Dim ond"},"noBrowserStorageFound":{"message ":"Ni chanfuwyd storfa porwr"},"notSavingState":{"message ":"nid arbed cyflwr"},"returningDefaultState":{"message ":"cyflwr rhagosodedig dychwelyd"}}
+{
+  "extensionName": {
+    "message": "Cuddio Botwm Casgliad yn Unig ar gyfer eBay"
+  },
+  "extensionDescription": {
+    "message": "Yn ychwanegu botwm i guddio eitemau Casgliad yn Unig ar eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Cuddio Casgliad-Dim ond"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ni chanfuwyd storfa porwr"
+  },
+  "notSavingState": {
+    "message": "nid arbed cyflwr"
+  },
+  "returningDefaultState": {
+    "message": "cyflwr rhagosodedig dychwelyd"
+  }
+}

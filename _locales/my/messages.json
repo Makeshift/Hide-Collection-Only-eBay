@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay အတွက် စုစည်းမှု-တစ်ခုတည်းသောခလုတ်ကို ဝှက်ပါ။"},"extensionDescription":{"message ":"eBay ရှိ Collection-Only items များကို ဝှက်ထားရန် ခလုတ်တစ်ခု ထည့်ပေးသည်။"},"hideCollectionOnlyButtonTitle":{"message ":"စုစည်းမှု-သာလျှင် ဝှက်ပါ။"},"noBrowserStorageFound":{"message ":"ဘရောက်ဆာ သိုလှောင်မှု မတွေ့ပါ။"},"notSavingState":{"message ":"နိုင်ငံတော်ကို မသိမ်းဘူး။"},"returningDefaultState":{"message ":"ပုံသေအခြေအနေသို့ ပြန်လာခြင်း"}}
+{
+  "extensionName": {
+    "message": "eBay အတွက် စုစည်းမှု-တစ်ခုတည်းသောခလုတ်ကို ဝှက်ပါ။"
+  },
+  "extensionDescription": {
+    "message": "eBay ရှိ Collection-Only items များကို ဝှက်ထားရန် ခလုတ်တစ်ခု ထည့်ပေးသည်။"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "စုစည်းမှု-သာလျှင် ဝှက်ပါ။"
+  },
+  "noBrowserStorageFound": {
+    "message": "ဘရောက်ဆာ သိုလှောင်မှု မတွေ့ပါ။"
+  },
+  "notSavingState": {
+    "message": "နိုင်ငံတော်ကို မသိမ်းဘူး။"
+  },
+  "returningDefaultState": {
+    "message": "ပုံသေအခြေအနေသို့ ပြန်လာခြင်း"
+  }
+}

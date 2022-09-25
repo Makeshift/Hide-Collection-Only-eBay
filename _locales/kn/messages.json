@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay ಗಾಗಿ ಸಂಗ್ರಹ-ಮಾತ್ರ ಬಟನ್ ಅನ್ನು ಮರೆಮಾಡಿ"},"extensionDescription":{"message ":"eBay ನಲ್ಲಿ ಸಂಗ್ರಹಣೆ-ಮಾತ್ರ ಐಟಂಗಳನ್ನು ಮರೆಮಾಡಲು ಬಟನ್ ಅನ್ನು ಸೇರಿಸುತ್ತದೆ."},"hideCollectionOnlyButtonTitle":{"message ":"ಸಂಗ್ರಹವನ್ನು ಮರೆಮಾಡಿ-ಮಾತ್ರ"},"noBrowserStorageFound":{"message ":"ಯಾವುದೇ ಬ್ರೌಸರ್ ಸಂಗ್ರಹಣೆ ಕಂಡುಬಂದಿಲ್ಲ"},"notSavingState":{"message ":"ರಾಜ್ಯವನ್ನು ಉಳಿಸುವುದಿಲ್ಲ"},"returningDefaultState":{"message ":"ಡೀಫಾಲ್ಟ್ ಸ್ಥಿತಿಯನ್ನು ಹಿಂದಿರುಗಿಸುತ್ತದೆ"}}
+{
+  "extensionName": {
+    "message": "eBay ಗಾಗಿ ಸಂಗ್ರಹ-ಮಾತ್ರ ಬಟನ್ ಅನ್ನು ಮರೆಮಾಡಿ"
+  },
+  "extensionDescription": {
+    "message": "eBay ನಲ್ಲಿ ಸಂಗ್ರಹಣೆ-ಮಾತ್ರ ಐಟಂಗಳನ್ನು ಮರೆಮಾಡಲು ಬಟನ್ ಅನ್ನು ಸೇರಿಸುತ್ತದೆ."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ಸಂಗ್ರಹವನ್ನು ಮರೆಮಾಡಿ-ಮಾತ್ರ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ಯಾವುದೇ ಬ್ರೌಸರ್ ಸಂಗ್ರಹಣೆ ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "notSavingState": {
+    "message": "ರಾಜ್ಯವನ್ನು ಉಳಿಸುವುದಿಲ್ಲ"
+  },
+  "returningDefaultState": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಸ್ಥಿತಿಯನ್ನು ಹಿಂದಿರುಗಿಸುತ್ತದೆ"
+  }
+}

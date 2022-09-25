@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"eBay-യ്u200cക്കുള്ള ശേഖരം-മാത്രം ബട്ടൺ മറയ്u200cക്കുക"},"extensionDescription":{"message ":"eBay-യിൽ ശേഖരം-മാത്രം ഇനങ്ങൾ മറയ്ക്കാൻ ഒരു ബട്ടൺ ചേർക്കുന്നു."},"hideCollectionOnlyButtonTitle":{"message ":"ശേഖരം-മാത്രം മറയ്ക്കുക"},"noBrowserStorageFound":{"message ":"ബ്രൗസർ സംഭരണമൊന്നും കണ്ടെത്തിയില്ല"},"notSavingState":{"message ":"സംസ്ഥാനത്തെ രക്ഷിക്കുന്നില്ല"},"returningDefaultState":{"message ":"സ്ഥിരസ്ഥിതിയായി മടങ്ങുന്നു"}}
+{
+  "extensionName": {
+    "message": "eBay-യ്u200cക്കുള്ള ശേഖരം-മാത്രം ബട്ടൺ മറയ്u200cക്കുക"
+  },
+  "extensionDescription": {
+    "message": "eBay-യിൽ ശേഖരം-മാത്രം ഇനങ്ങൾ മറയ്ക്കാൻ ഒരു ബട്ടൺ ചേർക്കുന്നു."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ശേഖരം-മാത്രം മറയ്ക്കുക"
+  },
+  "noBrowserStorageFound": {
+    "message": "ബ്രൗസർ സംഭരണമൊന്നും കണ്ടെത്തിയില്ല"
+  },
+  "notSavingState": {
+    "message": "സംസ്ഥാനത്തെ രക്ഷിക്കുന്നില്ല"
+  },
+  "returningDefaultState": {
+    "message": "സ്ഥിരസ്ഥിതിയായി മടങ്ങുന്നു"
+  }
+}

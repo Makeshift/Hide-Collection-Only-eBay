@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Peida eBay jaoks ainult kogu jaoks mõeldud nupp"},"extensionDescription":{"message ":"Lisab nupu ainult kollektsiooni kuuluvate üksuste peitmiseks eBays."},"hideCollectionOnlyButtonTitle":{"message ":"Peida ainult kogu"},"noBrowserStorageFound":{"message ":"Brauseri salvestusruumi ei leitud"},"notSavingState":{"message ":"ei salvesta olekut"},"returningDefaultState":{"message ":"vaikeoleku tagastamine"}}
+{
+  "extensionName": {
+    "message": "Peida eBay jaoks ainult kogu jaoks mõeldud nupp"
+  },
+  "extensionDescription": {
+    "message": "Lisab nupu ainult kollektsiooni kuuluvate üksuste peitmiseks eBays."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Peida ainult kogu"
+  },
+  "noBrowserStorageFound": {
+    "message": "Brauseri salvestusruumi ei leitud"
+  },
+  "notSavingState": {
+    "message": "ei salvesta olekut"
+  },
+  "returningDefaultState": {
+    "message": "vaikeoleku tagastamine"
+  }
+}

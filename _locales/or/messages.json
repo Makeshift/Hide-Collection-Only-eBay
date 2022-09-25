@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"ଇବେ ପାଇଁ ସଂଗ୍ରହ-କେବଳ ବଟନ୍ ଲୁଚାନ୍ତୁ |"},"extensionDescription":{"message ":"ଇବେରେ କେବଳ ସଂଗ୍ରହ-ଆଇଟମ୍ ଲୁଚାଇବା ପାଇଁ ଏକ ବଟନ୍ ଯୋଗ କରେ |"},"hideCollectionOnlyButtonTitle":{"message ":"କେବଳ ସଂଗ୍ରହ ଲୁଚାନ୍ତୁ |"},"noBrowserStorageFound":{"message ":"କ browser ଣସି ବ୍ରାଉଜର୍ ଷ୍ଟୋରେଜ୍ ମିଳିଲା ନାହିଁ |"},"notSavingState":{"message ":"ସ୍ଥିତି ସଞ୍ଚୟ କରୁନାହିଁ |"},"returningDefaultState":{"message ":"ଡିଫଲ୍ଟ ଅବସ୍ଥା ଫେରସ୍ତ"}}
+{
+  "extensionName": {
+    "message": "ଇବେ ପାଇଁ ସଂଗ୍ରହ-କେବଳ ବଟନ୍ ଲୁଚାନ୍ତୁ |"
+  },
+  "extensionDescription": {
+    "message": "ଇବେରେ କେବଳ ସଂଗ୍ରହ-ଆଇଟମ୍ ଲୁଚାଇବା ପାଇଁ ଏକ ବଟନ୍ ଯୋଗ କରେ |"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "କେବଳ ସଂଗ୍ରହ ଲୁଚାନ୍ତୁ |"
+  },
+  "noBrowserStorageFound": {
+    "message": "କ browser ଣସି ବ୍ରାଉଜର୍ ଷ୍ଟୋରେଜ୍ ମିଳିଲା ନାହିଁ |"
+  },
+  "notSavingState": {
+    "message": "ସ୍ଥିତି ସଞ୍ଚୟ କରୁନାହିଁ |"
+  },
+  "returningDefaultState": {
+    "message": "ଡିଫଲ୍ଟ ଅବସ୍ଥା ଫେରସ୍ତ"
+  }
+}

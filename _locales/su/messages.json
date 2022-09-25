@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Sumputkeun Koléksi-Ngan Tombol pikeun eBay"},"extensionDescription":{"message ":"Nambahkeun tombol pikeun nyumputkeun Koléksi-Ngan item dina eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Sumputkeun Koléksi-Ngan"},"noBrowserStorageFound":{"message ":"Taya gudang browser kapanggih"},"notSavingState":{"message ":"teu nyimpen kaayaan"},"returningDefaultState":{"message ":"mulangkeun kaayaan standar"}}
+{
+  "extensionName": {
+    "message": "Sumputkeun Koléksi-Ngan Tombol pikeun eBay"
+  },
+  "extensionDescription": {
+    "message": "Nambahkeun tombol pikeun nyumputkeun Koléksi-Ngan item dina eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Sumputkeun Koléksi-Ngan"
+  },
+  "noBrowserStorageFound": {
+    "message": "Taya gudang browser kapanggih"
+  },
+  "notSavingState": {
+    "message": "teu nyimpen kaayaan"
+  },
+  "returningDefaultState": {
+    "message": "mulangkeun kaayaan standar"
+  }
+}

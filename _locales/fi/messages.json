@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Piilota kokoelma-painike eBaylle"},"extensionDescription":{"message ":"Lisää painikkeen, jolla piilotetaan vain kokoelmaan kuuluvat kohteet eBayssa."},"hideCollectionOnlyButtonTitle":{"message ":"Piilota vain kokoelma"},"noBrowserStorageFound":{"message ":"Selaimen tallennustilaa ei löytynyt"},"notSavingState":{"message ":"ei tallenna tilaa"},"returningDefaultState":{"message ":"palauttaa oletustilan"}}
+{
+  "extensionName": {
+    "message": "Piilota kokoelma-painike eBaylle"
+  },
+  "extensionDescription": {
+    "message": "Lisää painikkeen, jolla piilotetaan vain kokoelmaan kuuluvat kohteet eBayssa."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Piilota vain kokoelma"
+  },
+  "noBrowserStorageFound": {
+    "message": "Selaimen tallennustilaa ei löytynyt"
+  },
+  "notSavingState": {
+    "message": "ei tallenna tilaa"
+  },
+  "returningDefaultState": {
+    "message": "palauttaa oletustilan"
+  }
+}

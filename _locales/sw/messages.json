@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Ficha Kitufe cha Kukusanya Pekee kwa eBay"},"extensionDescription":{"message ":"Huongeza kitufe ili kuficha vipengee vya Mkusanyiko Pekee kwenye eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Ficha Mkusanyiko Pekee"},"noBrowserStorageFound":{"message ":"Hakuna hifadhi ya kivinjari iliyopatikana"},"notSavingState":{"message ":"si kuokoa hali"},"returningDefaultState":{"message ":"kurudisha hali chaguo-msingi"}}
+{
+  "extensionName": {
+    "message": "Ficha Kitufe cha Kukusanya Pekee kwa eBay"
+  },
+  "extensionDescription": {
+    "message": "Huongeza kitufe ili kuficha vipengee vya Mkusanyiko Pekee kwenye eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Ficha Mkusanyiko Pekee"
+  },
+  "noBrowserStorageFound": {
+    "message": "Hakuna hifadhi ya kivinjari iliyopatikana"
+  },
+  "notSavingState": {
+    "message": "si kuokoa hali"
+  },
+  "returningDefaultState": {
+    "message": "kurudisha hali chaguo-msingi"
+  }
+}

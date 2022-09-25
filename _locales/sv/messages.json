@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Dölj endast samlingsknapp för eBay"},"extensionDescription":{"message ":"Lägger till en knapp för att dölja objekt med endast samling på eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Dölj endast samling"},"noBrowserStorageFound":{"message ":"Ingen webbläsarlagring hittades"},"notSavingState":{"message ":"inte spara tillstånd"},"returningDefaultState":{"message ":"returnerar standardtillstånd"}}
+{
+  "extensionName": {
+    "message": "Dölj endast samlingsknapp för eBay"
+  },
+  "extensionDescription": {
+    "message": "Lägger till en knapp för att dölja objekt med endast samling på eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Dölj endast samling"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ingen webbläsarlagring hittades"
+  },
+  "notSavingState": {
+    "message": "inte spara tillstånd"
+  },
+  "returningDefaultState": {
+    "message": "returnerar standardtillstånd"
+  }
+}

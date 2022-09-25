@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"លាក់ប៊ូតុងតែមួយគត់សម្រាប់ eBay"},"extensionDescription":{"message ":"បន្ថែមប៊ូតុងមួយដើម្បីលាក់ធាតុ Collection-Only នៅលើ eBay។"},"hideCollectionOnlyButtonTitle":{"message ":"លាក់ការប្រមូលតែប៉ុណ្ណោះ"},"noBrowserStorageFound":{"message ":"រកមិនឃើញកន្លែងផ្ទុកកម្មវិធីរុករកទេ។"},"notSavingState":{"message ":"មិនរក្សាទុករដ្ឋ"},"returningDefaultState":{"message ":"ត្រឡប់ស្ថានភាពលំនាំដើម"}}
+{
+  "extensionName": {
+    "message": "លាក់ប៊ូតុងតែមួយគត់សម្រាប់ eBay"
+  },
+  "extensionDescription": {
+    "message": "បន្ថែមប៊ូតុងមួយដើម្បីលាក់ធាតុ Collection-Only នៅលើ eBay។"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "លាក់ការប្រមូលតែប៉ុណ្ណោះ"
+  },
+  "noBrowserStorageFound": {
+    "message": "រកមិនឃើញកន្លែងផ្ទុកកម្មវិធីរុករកទេ។"
+  },
+  "notSavingState": {
+    "message": "មិនរក្សាទុករដ្ឋ"
+  },
+  "returningDefaultState": {
+    "message": "ត្រឡប់ស្ថានភាពលំនាំដើម"
+  }
+}

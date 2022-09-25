@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Ẩn nút Chỉ Bộ sưu tập cho eBay"},"extensionDescription":{"message ":"Thêm nút để ẩn các mục Chỉ Bộ sưu tập trên eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Ẩn Chỉ Bộ sưu tập"},"noBrowserStorageFound":{"message ":"Không tìm thấy bộ nhớ trình duyệt"},"notSavingState":{"message ":"không lưu trạng thái"},"returningDefaultState":{"message ":"trở lại trạng thái mặc định"}}
+{
+  "extensionName": {
+    "message": "Ẩn nút Chỉ Bộ sưu tập cho eBay"
+  },
+  "extensionDescription": {
+    "message": "Thêm nút để ẩn các mục Chỉ Bộ sưu tập trên eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Ẩn Chỉ Bộ sưu tập"
+  },
+  "noBrowserStorageFound": {
+    "message": "Không tìm thấy bộ nhớ trình duyệt"
+  },
+  "notSavingState": {
+    "message": "không lưu trạng thái"
+  },
+  "returningDefaultState": {
+    "message": "trở lại trạng thái mặc định"
+  }
+}

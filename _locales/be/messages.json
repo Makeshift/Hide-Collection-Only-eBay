@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Схаваць кнопку толькі калекцыі для eBay"},"extensionDescription":{"message ":"Дадае кнопку, каб схаваць тавары толькі для калекцыі на eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Схаваць толькі калекцыю"},"noBrowserStorageFound":{"message ":"Сховішча браўзера не знойдзена"},"notSavingState":{"message ":"не захаванне стану"},"returningDefaultState":{"message ":"вяртанне стану па змаўчанні"}}
+{
+  "extensionName": {
+    "message": "Схаваць кнопку толькі калекцыі для eBay"
+  },
+  "extensionDescription": {
+    "message": "Дадае кнопку, каб схаваць тавары толькі для калекцыі на eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Схаваць толькі калекцыю"
+  },
+  "noBrowserStorageFound": {
+    "message": "Сховішча браўзера не знойдзена"
+  },
+  "notSavingState": {
+    "message": "не захаванне стану"
+  },
+  "returningDefaultState": {
+    "message": "вяртанне стану па змаўчанні"
+  }
+}

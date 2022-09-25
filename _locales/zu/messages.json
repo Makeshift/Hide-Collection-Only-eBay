@@ -1,1 +1,20 @@
-{"extensionName":{"message ":"Fihla Inkinobho Yeqoqo Kuphela ye-eBay"},"extensionDescription":{"message ":"Yengeza inkinobho yokufihla izinto zeqoqo kuphela ku-eBay."},"hideCollectionOnlyButtonTitle":{"message ":"Fihla Iqoqo Kuphela"},"noBrowserStorageFound":{"message ":"Asikho isitoreji sesiphequluli esitholiwe"},"notSavingState":{"message ":"hhayi ukulondoloza isimo"},"returningDefaultState":{"message ":"ukubuyisela isimo esimisiwe"}}
+{
+  "extensionName": {
+    "message": "Fihla Inkinobho Yeqoqo Kuphela ye-eBay"
+  },
+  "extensionDescription": {
+    "message": "Yengeza inkinobho yokufihla izinto zeqoqo kuphela ku-eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Fihla Iqoqo Kuphela"
+  },
+  "noBrowserStorageFound": {
+    "message": "Asikho isitoreji sesiphequluli esitholiwe"
+  },
+  "notSavingState": {
+    "message": "hhayi ukulondoloza isimo"
+  },
+  "returningDefaultState": {
+    "message": "ukubuyisela isimo esimisiwe"
+  }
+}
