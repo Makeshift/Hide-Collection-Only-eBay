@@ -1,62 +1,172 @@
-let hidden = false;
-chrome.storage.sync.get(["hidden"], result => {
-    if (typeof result.hidden === "undefined") {
-        chrome.storage.sync.set({hidden: hidden}, () => {});
-    } else {
-        hidden = result.hidden;
-    }
+/* global chrome browser MutationObserver */
 
+const c = {
+  childClassName: 's-item__localDelivery',
+  itemParentClassName: '.s-item',
+  hideCollectionOnlyActiveClass: 'fake-tabs__item--current',
+  hideCollectionOnlyButtonId: 'hideCollectionOnlyButton',
+  ebayConfigTabsId: '.fake-tabs__items',
+  ebayConfigTabsButtonClass: 'fake-tabs__item btn',
+  ebayConfigTabsButtonTitleClass: 'srp-format-tabs-h2',
+  hideCollectionOnlyButtonTitle: 'Hide Collection-Only'
+};
+
+function setStorage (hidden) {
+  // Chrome
+  if (typeof chrome !== 'undefined') {
+    chrome.storage.sync.set({ hidden: hidden });
+  // Firefox
+  } else if (typeof browser !== 'undefined') {
+    browser.storage.sync.set({ hidden: hidden });
+  } else {
+    console.error('Hide Collection Only Ebay: No browser storage found, not saving state: ', hidden);
+  }
+}
+
+function getStorage () {
+  return new Promise(resolve => {
+    // Chrome
+    if (typeof chrome !== 'undefined') {
+      chrome.storage.sync.get(['hidden'], (result) => {
+        resolve(result?.hidden);
+      });
+    // Firefox (Which is async)
+    } else if (typeof browser !== 'undefined') {
+      browser.storage.sync.get('hidden').then(result => {
+        resolve(result?.hidden);
+      });
+    } else {
+      console.error('Hide Collection Only Ebay: No browser storage found, returning default state: false');
+      resolve(false);
+    }
+  });
+}
+
+function start () {
+  getStorage().then(hidden => {
+    if (typeof hidden === 'undefined') {
+      hidden = false;
+      setStorage(hidden);
+    }
     toggleVisible(hidden);
+  });
+}
 
-});
+async function toggleVisible (shouldBeHidden) {
+  const hideCollectionOnlyButton = await createOrGetButton(shouldBeHidden);
 
-function createOrGetButton() {
-    let button = document.getElementById("hideCollectionOnlyButton");
+  toggleAlreadyLoadedElements(shouldBeHidden);
+  handleLoadingElements(shouldBeHidden);
+
+  if (shouldBeHidden) {
+    hideCollectionOnlyButton.classList.add(c.hideCollectionOnlyActiveClass);
+  } else {
+    hideCollectionOnlyButton.classList.remove(c.hideCollectionOnlyActiveClass);
+  }
+}
+
+function createOrGetButton (shouldBeHidden) {
+  return new Promise(resolve => {
+    const button = document.getElementById(c.hideCollectionOnlyButtonId);
     if (!button) {
-        let tabs = document.getElementsByClassName("fake-tabs__items")[0];
-        let item = document.createElement('li');
-        item.className = "fake-tabs__item btn"
-        item.id = "hideCollectionOnlyButton";
-        
-        item.onclick = function() {
-            hidden = !hidden;
-            chrome.storage.sync.set({hidden: hidden}, () => {})
-            toggleVisible(hidden)
-        }
-        tabs.appendChild(item);
-        button = document.getElementById("hideCollectionOnlyButton")
-    }
-    return button
-}
+      waitForElm(c.ebayConfigTabsId).then((tabs) => {
+        const item = document.createElement('li');
+        item.className = c.ebayConfigTabsButtonClass;
+        item.id = c.hideCollectionOnlyButtonId;
 
-function toggleVisible(shouldBeHidden) {
-    let localDeliveryElements = document.getElementsByClassName("s-item__localDelivery");
-    let hideCollectionOnlyButton = createOrGetButton();
+        const title = document.createElement('h2');
+        title.className = c.ebayConfigTabsButtonTitleClass;
+        const text = document.createTextNode(c.hideCollectionOnlyButtonTitle);
+        title.appendChild(text);
 
-    for (let i = 0; i < localDeliveryElements.length; i++) {
-        if (localDeliveryElements[i].offsetParent && !localDeliveryElements[i].classList.contains("s-item__dynamic")) {
-            localDeliveryElements[i].offsetParent.hidden = hidden;
-        } else if (localDeliveryElements[i].classList.contains("s-item__dynamic")) {
-            localDeliveryElements[i].parentElement.parentElement.parentElement.parentElement.parentElement.hidden = hidden;
-        }
-    }
+        item.appendChild(title);
 
-    if (hideCollectionOnlyButton.children[0]) hideCollectionOnlyButton.removeChild(hideCollectionOnlyButton.children[0]);
-
-    let title = document.createElement('h2');
-    title.className = "srp-format-tabs-h2"
-    let text = document.createTextNode("Hide Collection-Only")
-    title.appendChild(text)
-
-    if (shouldBeHidden) {
-        hideCollectionOnlyButton.className = "fake-tabs__item btn fake-tabs__item--current"
-        hideCollectionOnlyButton.appendChild(title)
+        item.onclick = function () {
+          shouldBeHidden = !shouldBeHidden;
+          setStorage(shouldBeHidden);
+          toggleVisible(shouldBeHidden);
+        };
+        resolve(tabs.appendChild(item));
+      });
     } else {
-        hideCollectionOnlyButton.className = "fake-tabs__item btn"
-        let link = document.createElement("a");
-        link.href = "#"
-        link.appendChild(title);
-        hideCollectionOnlyButton.appendChild(link)
-        
+      resolve(button);
     }
+  });
 }
+
+function waitForBody () {
+  return new Promise((resolve) => {
+    if (!document.body) {
+      const observer = new MutationObserver(() => {
+        if (document.body) {
+          observer.disconnect();
+          resolve();
+        }
+      });
+      observer.observe(document.documentElement, { childList: true });
+    } else {
+      resolve();
+    }
+  });
+}
+
+function waitForElm (selector) {
+  return new Promise((resolve) => {
+    if (document.querySelector(selector)) {
+      return resolve(document.querySelector(selector));
+    }
+
+    waitForBody().then(() => {
+      const observer = new MutationObserver((mutations) => {
+        if (document.querySelector(selector)) {
+          resolve(document.querySelector(selector));
+          observer.disconnect();
+        }
+      });
+
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true
+      });
+    });
+  });
+}
+
+function toggleAlreadyLoadedElements (hidden) {
+  const localDeliveryElements = document.getElementsByClassName(c.childClassName);
+  for (const i of localDeliveryElements) {
+    switchGivenElementsParent(i, hidden);
+  }
+}
+
+function switchGivenElementsParent (childElement, hidden) {
+  let element;
+  if (childElement.offsetParent && !childElement.classList.contains('s-item__dynamic')) {
+    element = childElement.offsetParent;
+  } else if (childElement.classList.contains('s-item__dynamic')) {
+    element = childElement.closest(c.itemParentClassName);
+  }
+  if (element) element.hidden = typeof hidden === 'undefined' ? !element.hidden : hidden;
+}
+
+function handleLoadingElements (hidden) {
+  waitForBody().then(() => {
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach(mutation => {
+        if (mutation?.target?.className?.includes && mutation?.target?.className?.includes(c.childClassName)) {
+          switchGivenElementsParent(mutation.target, hidden);
+        }
+      });
+      if (document.readyState === 'complete') {
+        observer.disconnect();
+      }
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  });
+}
+
+start();
