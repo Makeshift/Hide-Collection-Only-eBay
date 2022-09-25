@@ -12,10 +12,11 @@ Also, [DeclarativeAction](https://developer.chrome.com/extensions/declarativeAct
 
 ### Images
 
-#### Disabled
-
-![button-off](./button-off.PNG)
-
 #### Enabled
 
-![button-on](./button-on.PNG)
+![button-on](./docs/button-on.PNG)
+
+#### Disabled
+
+![button-off](./docs/button-off.PNG)
+
