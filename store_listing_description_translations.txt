@@ -1,0 +1,316 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a simple extension that adds a 'Hide Collection-Only' button to eBay search results.
+
+This toggle persists through page loads and can be dynamically turned on and off.
+
+
+ይህ ወደ eBay የፍለጋ ውጤቶች 'ስብስብ-ብቻ' የሚለውን አዝራር የሚያክል ቀላል ቅጥያ ነው።
+
+ይህ መቀያየር በገጽ ጭነቶች ውስጥ የሚቆይ ሲሆን በተለዋዋጭ ሊበራ እና ሊጠፋ ይችላል።
+
+
+                                                                                                                                               .eBay ﺚﺤﺑ ﺞﺋﺎﺘﻧ ﻰﻟﺇ "ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ءﺎﻔﺧﺇ" ﺭﺯ ﻒﻴﻀﻳ ﻂﻴﺴﺑ ﺩﺍﺪﺘﻣﺍ ﺍﺬﻫ
+
+
+এটি একটি সাধারণ এক্সটেনশন যা ইবে অনুসন্ধান ফলাফলে একটি 'শুধু সংগ্রহ-লুকান' বোতাম যোগ করে।
+
+এই টগলটি পৃষ্ঠা লোডের মাধ্যমে অব্যাহত থাকে এবং গতিশীলভাবে চালু এবং বন্ধ করা যেতে পারে।
+
+
+Това е просто разширение, което добавя бутон „Скриване само на колекция“ към резултатите от търсенето в eBay.
+
+Това превключване остава при зареждане на страницата и може да се включва и изключва динамично.
+
+
+Aquesta és una extensió senzilla que afegeix un botó "Oculta només per a la col·lecció" als resultats de la cerca d'eBay.
+
+Aquesta commutació continua durant les càrregues de la pàgina i es pot activar i desactivar de manera dinàmica.
+
+
+Ovo je jednostavno proširenje koje dodaje gumb 'Sakrij samo zbirku' u rezultate pretraživanja eBaya.
+
+Ovaj prekidač traje tijekom učitavanja stranice i može se dinamički uključiti i isključiti.
+
+
+Jedná se o jednoduché rozšíření, které k výsledkům vyhledávání na eBay přidá tlačítko „Skrýt pouze kolekci“.
+
+Tento přepínač přetrvává během načítání stránky a lze jej dynamicky zapínat a vypínat.
+
+
+Dette er en simpel udvidelse, der tilføjer en 'Skjul kun samling'-knap til eBay-søgeresultater.
+
+Denne skift fortsætter gennem sideindlæsninger og kan slås dynamisk til og fra.
+
+
+Dit is een eenvoudige extensie die een knop 'Alleen collectie verbergen' toevoegt aan de zoekresultaten van eBay.
+
+Deze schakelaar blijft bestaan u200bu200btijdens het laden van pagina's en kan dynamisch worden in- en uitgeschakeld.
+
+
+See on lihtne laiendus, mis lisab eBay otsingutulemustele nupu „Peida ainult kollektsioon”.
+
+See lüliti püsib lehe laadimise ajal ja seda saab dünaamiliselt sisse ja välja lülitada.
+
+
+Isa itong simpleng extension na nagdaragdag ng button na 'Itago ang Koleksyon-Lamang' sa mga resulta ng paghahanap sa eBay.
+
+Nagpapatuloy ang toggle na ito sa pamamagitan ng pag-load ng page at maaaring dynamic na i-on at i-off.
+
+
+Tämä on yksinkertainen laajennus, joka lisää "Piilota vain kokoelma" -painikkeen eBay-hakutuloksiin.
+
+Tämä vaihto jatkuu sivujen latauksen ajan, ja se voidaan kytkeä päälle ja pois dynaamisesti.
+
+
+Il s'agit d'une extension simple qui ajoute un bouton "Masquer uniquement la collection" aux résultats de recherche eBay.
+
+Cette bascule persiste pendant les chargements de page et peut être activée et désactivée de manière dynamique.
+
+
+Dies ist eine einfache Erweiterung, die den eBay-Suchergebnissen eine Schaltfläche „Nur Sammlung ausblenden“ hinzufügt.
+
+Dieser Schalter bleibt beim Laden von Seiten bestehen und kann dynamisch ein- und ausgeschaltet werden.
+
+
+Αυτή είναι μια απλή επέκταση που προσθέτει ένα κουμπί «Απόκρυψη μόνο συλλογής» στα αποτελέσματα αναζήτησης του eBay.
+
+Αυτή η εναλλαγή παραμένει κατά τη φόρτωση σελίδων και μπορεί να ενεργοποιηθεί και να απενεργοποιηθεί δυναμικά.
+
+
+આ એક સરળ એક્સટેન્શન છે જે eBay શોધ પરિણામોમાં 'માત્ર-સંગ્રહ છુપાવો' બટન ઉમેરે છે.
+
+આ ટૉગલ પૃષ્ઠ લોડ દ્વારા ચાલુ રહે છે અને ગતિશીલ રીતે ચાલુ અને બંધ કરી શકાય છે.
+
+
+                                                                                                                                         .ייביאב שופיחה תואצותל 'דבלב ףסוא רתסה' רותפכ הפיסומש הטושפ הבחרה יהוז
+
+
+यह एक साधारण एक्सटेंशन है जो eBay खोज परिणामों में 'केवल संग्रह छुपाएं' बटन जोड़ता है।
+
+यह टॉगल पृष्ठ लोड के माध्यम से बना रहता है और इसे गतिशील रूप से चालू और बंद किया जा सकता है।
+
+
+Ez egy egyszerű bővítmény, amely hozzáad egy „Csak gyűjtemény elrejtése” gombot az eBay keresési eredményeihez.
+
+Ez a kapcsoló az oldalbetöltések során is fennáll, és dinamikusan be- és kikapcsolható.
+
+
+Ini adalah ekstensi sederhana yang menambahkan tombol 'Sembunyikan Koleksi-Hanya' ke hasil pencarian eBay.
+
+Pengalih ini tetap ada selama pemuatan halaman dan dapat dihidupkan dan dimatikan secara dinamis.
+
+
+Questa è una semplice estensione che aggiunge un pulsante "Nascondi solo raccolta" ai risultati di ricerca di eBay.
+
+Questo interruttore persiste durante il caricamento della pagina e può essere attivato e disattivato dinamicamente.
+
+
+これは、eBay の検索結果に「コレクションのみを非表示」ボタンを追加する単純な拡張機能です。
+
+このトグルは、ページが読み込まれるまで維持され、動的にオンとオフを切り替えることができます。
+
+
+ಇದು ಸರಳವಾದ ವಿಸ್ತರಣೆಯಾಗಿದ್ದು, eBay ಹುಡುಕಾಟ ಫಲಿತಾಂಶಗಳಿಗೆ 'ಕಲೆಕ್ಷನ್-ಮಾತ್ರ ಮರೆಮಾಡಿ' ಬಟನ್ ಅನ್ನು ಸೇರಿಸುತ್ತದೆ.
+
+ಈ ಟಾಗಲ್ ಪುಟದ ಲೋಡ್u200cಗಳ ಮೂಲಕ ಮುಂದುವರಿಯುತ್ತದೆ ಮತ್ತು ಕ್ರಿಯಾತ್ಮಕವಾಗಿ ಆನ್ ಮತ್ತು ಆಫ್ ಮಾಡಬಹುದು.
+
+
+이것은 eBay 검색 결과에 '컬렉션 전용 숨기기' 버튼을 추가하는 간단한 확장입니다.
+
+이 토글은 페이지 로드 동안 지속되며 동적으로 켜고 끌 수 있습니다.
+
+
+Šis ir vienkāršs paplašinājums, kas eBay meklēšanas rezultātiem pievieno pogu "Slēpt tikai kolekcijai".
+
+Šī pārslēgšanās saglabājas lapas ielādes laikā, un to var dinamiski ieslēgt un izslēgt.
+
+
+Tai paprastas plėtinys, kuris prie „eBay“ paieškos rezultatų prideda mygtuką „Slėpti tik kolekciją“.
+
+Šis perjungimas išlieka įkeliant puslapį ir gali būti dinamiškai įjungiamas ir išjungiamas.
+
+
+Ini ialah sambungan ringkas yang menambahkan butang 'Sembunyikan Koleksi Sahaja' pada hasil carian eBay.
+
+Togol ini berterusan melalui pemuatan halaman dan boleh dihidupkan dan dimatikan secara dinamik.
+
+
+eBay തിരയൽ ഫലങ്ങളിലേക്ക് 'ശേഖരം-മാത്രം മറയ്ക്കുക' ബട്ടൺ ചേർക്കുന്ന ഒരു ലളിതമായ വിപുലീകരണമാണിത്.
+
+പേജ് ലോഡുകളിലൂടെ ഈ ടോഗിൾ നിലനിൽക്കുകയും ചലനാത്മകമായി ഓണാക്കാനും ഓഫാക്കാനും കഴിയും.
+
+
+हा एक साधा विस्तार आहे जो eBay शोध परिणामांमध्ये 'केवळ-संग्रह लपवा' बटण जोडतो.
+
+हे टॉगल पृष्ठ लोडद्वारे टिकून राहते आणि गतिमानपणे चालू आणि बंद केले जाऊ शकते.
+
+
+Dette er en enkel utvidelse som legger til en "Skjul kun samling"-knapp til eBay-søkeresultater.
+
+Denne bryteren vedvarer gjennom sideinnlastinger og kan slås dynamisk av og på.
+
+
+                                                                                                            .ﺪﻨﮐ ﯽﻣ ﻪﻓﺎﺿﺍ eBay ﯼﻮﺠﺘﺴﺟ ﺞﯾﺎﺘﻧ ﻪﺑ ﺍﺭ «ﻪﻋﻮﻤﺠﻣ ﻥﺩﺮﮐ ﯽﻔﺨﻣ ﻂﻘﻓ» ﻪﻤﮐﺩ ﻪﮐ ﺖﺳﺍ ﻩﺩﺎﺳ ﯽﻧﺩﻭﺰﻓﺍ ﻪﻣﺎﻧﺮﺑ ﮏﯾ ﻦﯾﺍ
+
+
+Jest to proste rozszerzenie, które dodaje przycisk „Ukryj tylko kolekcję” do wyników wyszukiwania w serwisie eBay.
+
+Ten przełącznik utrzymuje się podczas ładowania strony i można go dynamicznie włączać i wyłączać.
+
+
+Aceasta este o extensie simplă care adaugă un buton „Ascunde doar colecția” la rezultatele căutării eBay.
+
+Această comutare persistă în timpul încărcării paginii și poate fi activată și dezactivată dinamic.
+
+
+Это простое расширение, добавляющее кнопку «Скрыть только коллекцию» в результаты поиска eBay.
+
+Этот переключатель сохраняется при загрузке страницы и может динамически включаться и выключаться.
+
+
+Toto je jednoduché rozšírenie, ktoré k výsledkom vyhľadávania na eBay pridáva tlačidlo „Skryť iba kolekciu“.
+
+Tento prepínač pretrváva počas načítania stránky a možno ho dynamicky zapínať a vypínať.
+
+
+To je preprosta razširitev, ki v rezultate iskanja na eBayu doda gumb »Skrij samo zbirko«.
+
+Ta preklop ostane med nalaganjem strani in ga je mogoče dinamično vklopiti in izklopiti.
+
+
+Esta es una extensión simple que agrega un botón 'Ocultar solo colección' a los resultados de búsqueda de eBay.
+
+Esta alternancia persiste a través de cargas de página y se puede activar y desactivar dinámicamente.
+
+
+Hiki ni kiendelezi rahisi kinachoongeza kitufe cha 'Ficha Mkusanyiko Pekee' kwenye matokeo ya utafutaji ya eBay.
+
+Ugeuzaji huu unaendelea kupitia upakiaji wa ukurasa na unaweza kuwashwa na kuzimwa kwa nguvu.
+
+
+Det här är ett enkelt tillägg som lägger till en "Dölj endast samling"-knapp till eBays sökresultat.
+
+Denna växling kvarstår under sidhämtning och kan slås på och av dynamiskt.
+
+
+இது ஒரு எளிய நீட்டிப்பாகும், இது eBay தேடல் முடிவுகளில் 'மறை சேகரிப்பு மட்டும்' பொத்தானைச் சேர்க்கிறது.
+
+பக்க சுமைகள் மூலம் இந்த நிலைமாற்றம் தொடர்கிறது மற்றும் மாறும் வகையில் ஆன் மற்றும் ஆஃப் செய்யப்படலாம்.
+
+
+ఇది eBay శోధన ఫలితాలకు 'కలెక్షన్-మాత్రమే దాచు' బటన్u200cను జోడించే సరళమైన పొడిగింపు.
+
+ఈ టోగుల్ పేజీ లోడ్u200cల ద్వారా కొనసాగుతుంది మరియు డైనమిక్u200cగా ఆన్ మరియు ఆఫ్ చేయవచ్చు.
+
+
+นี่เป็นส่วนขยายง่ายๆ ที่เพิ่มปุ่ม "ซ่อนเฉพาะคอลเล็กชันเท่านั้น" ลงในผลการค้นหาของ eBay
+
+การสลับนี้จะคงอยู่ผ่านการโหลดหน้าเว็บและสามารถเปิดและปิดแบบไดนามิกได้
+
+
+Bu, eBay arama sonuçlarına 'Yalnızca Koleksiyonu Gizle' düğmesi ekleyen basit bir uzantıdır.
+
+Bu geçiş, sayfa yüklemeleri boyunca devam eder ve dinamik olarak açılıp kapatılabilir.
+
+
+Це просте розширення, яке додає кнопку «Приховати лише колекцію» до результатів пошуку eBay.
+
+Цей перемикач зберігається під час завантаження сторінки, і його можна динамічно вмикати та вимикати.
+
+
+Đây là một tiện ích mở rộng đơn giản có thêm nút 'Chỉ Ẩn Bộ sưu tập' vào kết quả tìm kiếm trên eBay.
+
+Chuyển đổi này vẫn tồn tại qua các lần tải trang và có thể được bật và tắt động.
+
+
