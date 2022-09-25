@@ -10,10 +10,10 @@ cd "$tmpdir" || exit 1
 jq '.manifest_version = 3' manifest.json >manifest.json.tmp && mv manifest.json.tmp manifest.json
 # chrome store wants zips...
 crx pack --zip-output chrome.zip -p ~/.ssh/id_rsa
+mv chrome.zip "$wd"/chrome.zip
 # Firefox doesn't currently support manifest v3
 jq '.manifest_version = 2' manifest.json >manifest.json.tmp && mv manifest.json.tmp manifest.json
 crx pack -o firefox.crx -p ~/.ssh/id_rsa
-
-mv ./*.crx ./*.zip "$wd"
+mv firefox.crx "$wd"/firefox.crx
 
 rm -rf "$tmpdir"
