@@ -1,8 +1,14 @@
-# Hide Collection Only eBay Chrome Extension
+# Hide Collection Only eBay Extension
 
 This is a simple extension that adds a 'Hide Collection-Only' button to eBay search results.
 
 This toggle persists through page loads and can be dynamically turned on and off.
+
+## Installation
+
+[Chrome Web Store](https://chrome.google.com/webstore/detail/hide-collection-only-butt/dcbnhdjfmnfkblehlkpgeabnhmhnamdl)
+
+Firefox Addon Store (Pending Review)
 
 ### Permissions
 
