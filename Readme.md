@@ -8,7 +8,7 @@ This toggle persists through page loads and can be dynamically turned on and off
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/hide-collection-only-butt/dcbnhdjfmnfkblehlkpgeabnhmhnamdl)
 
-Firefox Addon Store (Pending Review)
+[Firefox Addon Store](https://addons.mozilla.org/en-GB/firefox/addon/hide-collection-only-on-ebay/)
 
 ### Permissions
 
