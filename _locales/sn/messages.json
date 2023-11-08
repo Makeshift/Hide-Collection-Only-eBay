@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "kudzorera default mamiriro"
+  },
+  "collectionInPerson": {
+    "message": "Kuunganidzwa mumunhu"
   }
 }

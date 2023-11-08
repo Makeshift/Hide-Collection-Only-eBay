@@ -1,0 +1,9 @@
+[tool.bumpversion]
+current_version = "1.2.4"
+tag = true
+
+
+[[tool.bumpversion.files]]
+filename = "manifest.json"
+search = '"version": "{current_version}",'
+replace = '"version": "{new_version}",'

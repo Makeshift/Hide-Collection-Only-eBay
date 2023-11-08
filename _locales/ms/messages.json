@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "mengembalikan keadaan lalai"
+  },
+  "collectionInPerson": {
+    "message": "Koleksi secara peribadi"
   }
 }

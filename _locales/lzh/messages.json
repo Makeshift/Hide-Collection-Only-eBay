@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "藏 eBay 者,藏按钮"
+  },
+  "extensionDescription": {
+    "message": "添一按钮以隐 eBay 上\"仅限藏\"项目。"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "仅隐集"
+  },
+  "noBrowserStorageFound": {
+    "message": "未得浏览器存储空间"
+  },
+  "notSavingState": {
+    "message": "未存"
+  },
+  "returningDefaultState": {
+    "message": "反默认"
+  },
+  "collectionInPerson": {
+    "message": "亲自领取"
+  }
+}

@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "eBaeཡི་\"ཉར་ཚགས་ཁོ་ན་བྱེད་པ་\"ཡིབ་ནས་གཅུས་སྒོ་མནན་"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "གཅུས་སྒོ་ཞིག་ཁ་སྣོན་བྱས་ནས་eBaoཐོག་གི་\"ཉར་ཚགས་ཁོ་ན་བྱེད་པའི་\"རྣམ་གྲངས་ཁ་སྣོན་བྱས་ཡོད།"
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "བསྡུ་རུབ་ཁོ་ན་བྱེད་པ།"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "བཤར་ཆས་གསོག་ཉར་བྱེད་སའི་བར་སྟོང་མ་རྙེད་པ།"
   },
   "notSavingState": {
-    "message": ""
+    "message": "ཉར་ཚགས་བྱས་མེད་པའི་གནས་ཚུལ།"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "ཕྱིར་ཁ་རོག་གེར་ངོས་ལེན་བྱེད་པའི་རྣམ་པ་ཆགས"
+  },
+  "collectionInPerson": {
+    "message": "རང་ཉིད་ངོ་མས་ལེན་གྱི་ཡོད།"
   }
 }

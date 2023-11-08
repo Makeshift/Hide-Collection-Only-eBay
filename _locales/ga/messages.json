@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Folaigh Bailiúchán-Ar eBay amháin"
+    "message": "Folaigh Cnaipe Bailiúchán - Amháin le haghaidh eBay"
   },
   "extensionDescription": {
     "message": "Cuireann sé cnaipe leis chun míreanna Bailiúcháin Amháin a cheilt ar eBay."
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "staid réamhshocraithe ag filleadh"
+  },
+  "collectionInPerson": {
+    "message": "Bailiúchán go pearsanta"
   }
 }

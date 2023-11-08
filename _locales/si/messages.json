@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ආපසු එන පෙරනිමි තත්ත්වය"
+  },
+  "collectionInPerson": {
+    "message": "පුද්ගලිකව එකතු කිරීම"
   }
 }

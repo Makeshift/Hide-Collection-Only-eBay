@@ -1,9 +1,9 @@
 {
   "extensionName": {
-    "message": "Nur-Sammel-Schaltfläche für eBay ausblenden"
+    "message": "Schaltfläche „Nur Abholung“ für eBay ausblenden"
   },
   "extensionDescription": {
-    "message": "Fügt eine Schaltfläche zum Ausblenden von Nur-Abhol-Artikeln bei eBay hinzu."
+    "message": "Fügt eine Schaltfläche zum Ausblenden von Nur-Sammel-Artikeln bei eBay hinzu."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Nur Sammlung ausblenden"
@@ -12,9 +12,12 @@
     "message": "Kein Browserspeicher gefunden"
   },
   "notSavingState": {
-    "message": "Zustand nicht speichern"
+    "message": "Zustand wird nicht gespeichert"
   },
   "returningDefaultState": {
-    "message": "Standardzustand zurückgeben"
+    "message": "Rückkehr zum Standardzustand"
+  },
+  "collectionInPerson": {
+    "message": "Persönliche Abholung"
   }
 }

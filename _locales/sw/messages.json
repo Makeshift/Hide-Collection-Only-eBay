@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "kurudisha hali chaguo-msingi"
+  },
+  "collectionInPerson": {
+    "message": "Mkusanyiko wa kibinafsi"
   }
 }

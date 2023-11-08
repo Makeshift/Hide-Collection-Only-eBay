@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ईबे के लेल संग्रह-केवल बटन नुकाउ"
+  },
+  "extensionDescription": {
+    "message": "ईबे पर संग्रह-केवल आइटम नुकेबाक लेल एकटा बटन जोड़ैत अछि."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "संग्रह-केवल छिपाएँ"
+  },
+  "noBrowserStorageFound": {
+    "message": "कोनो ब्राउजर भंडारण नहि भेटल"
+  },
+  "notSavingState": {
+    "message": "बचत राज्य नहि"
+  },
+  "returningDefaultState": {
+    "message": "पूर्वनिर्धारित स्थिति वापस करब"
+  },
+  "collectionInPerson": {
+    "message": "व्यक्तिगत रूप से संग्रह"
+  }
+}

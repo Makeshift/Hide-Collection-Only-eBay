@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Ɣla Nuƒoƒoƒu-Ko ƒe Abɔta na eBay"
+  },
+  "extensionDescription": {
+    "message": "Etsɔa abɔta aɖe kpena ɖe eŋu be wòaɣla nusiwo nye Nuƒoƒoƒu-Ðeko le eBay dzi."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Ɣla Nuƒoƒoƒu-Ðeko"
+  },
+  "noBrowserStorageFound": {
+    "message": "Womekpɔ browser ƒe nudzraɖoƒe aɖeke o"
+  },
+  "notSavingState": {
+    "message": "menye xɔname ƒe nɔnɔme o"
+  },
+  "returningDefaultState": {
+    "message": "tɔtrɔgbɔ ƒe nɔnɔme si woɖo ɖi"
+  },
+  "collectionInPerson": {
+    "message": "Nuƒoƒoƒu le ame ŋutɔ ŋkume"
+  }
+}

@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "vraćanje zadanog stanja"
+  },
+  "collectionInPerson": {
+    "message": "Preuzimanje lično"
   }
 }

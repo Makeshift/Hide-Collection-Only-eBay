@@ -1,9 +1,9 @@
 {
   "extensionName": {
-    "message": "Ukryj przycisk tylko do odbioru w serwisie eBay"
+    "message": "Ukryj przycisk „Tylko odbiór” w serwisie eBay"
   },
   "extensionDescription": {
-    "message": "Dodaje przycisk do ukrywania przedmiotów Tylko do kolekcji w serwisie eBay."
+    "message": "Dodaje przycisk umożliwiający ukrycie przedmiotów przeznaczonych wyłącznie do kolekcji w serwisie eBay."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Ukryj tylko kolekcję"
@@ -12,9 +12,12 @@
     "message": "Nie znaleziono pamięci przeglądarki"
   },
   "notSavingState": {
-    "message": "nie zapisuję stanu"
+    "message": "nie zapisuje stanu"
   },
   "returningDefaultState": {
-    "message": "przywracanie stanu domyślnego"
+    "message": "powrót do stanu domyślnego"
+  },
+  "collectionInPerson": {
+    "message": "Odbiór osobisty"
   }
 }

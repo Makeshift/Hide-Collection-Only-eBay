@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ডিফল্ট অবস্থা ফিরে আসছে"
+  },
+  "collectionInPerson": {
+    "message": "ব্যক্তি সংগ্রহ"
   }
 }

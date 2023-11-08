@@ -3,7 +3,7 @@
     "message": "Απόκρυψη κουμπιού μόνο συλλογής για eBay"
   },
   "extensionDescription": {
-    "message": "Προσθέτει ένα κουμπί για απόκρυψη στοιχείων μόνο για συλλογή στο eBay."
+    "message": "Προσθέτει ένα κουμπί για την απόκρυψη στοιχείων μόνο για συλλογή στο eBay."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Απόκρυψη συλλογής μόνο"
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "επιστρέφοντας την προεπιλεγμένη κατάσταση"
+  },
+  "collectionInPerson": {
+    "message": "Συλλογή αυτοπροσώπως"
   }
 }

@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ត្រឡប់ស្ថានភាពលំនាំដើម"
+  },
+  "collectionInPerson": {
+    "message": "ការប្រមូលដោយផ្ទាល់"
   }
 }

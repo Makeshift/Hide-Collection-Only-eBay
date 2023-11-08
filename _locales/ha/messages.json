@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Ɓoye Maɓallin Tarin-Kawai don eBay"
+    "message": "Ɓoye Maɓallin Tari-Kawai don eBay"
   },
   "extensionDescription": {
     "message": "Yana ƙara maɓalli don ɓoye Abubuwan Tarin-kawai akan eBay."
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "yanayin dawowa"
+  },
+  "collectionInPerson": {
+    "message": "Tarin cikin mutum"
   }
 }

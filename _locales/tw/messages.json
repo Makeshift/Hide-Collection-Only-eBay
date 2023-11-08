@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Hide Collection-Nkutoo Button ma eBay"
+  },
+  "extensionDescription": {
+    "message": "Ɔde bɔtn bi ka ho de sie nneɛma a wɔaboaboa ano nkutoo wɔ eBay so."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Hide Nneɛma a Wɔaboaboa Ano-Nkutoo"
+  },
+  "noBrowserStorageFound": {
+    "message": "Wonhuu browser storage biara"
+  },
+  "notSavingState": {
+    "message": "ɛnyɛ nkwagye tebea"
+  },
+  "returningDefaultState": {
+    "message": "sanba default tebea"
+  },
+  "collectionInPerson": {
+    "message": "Nneɛma a wɔboaboa ano ankasa"
+  }
+}

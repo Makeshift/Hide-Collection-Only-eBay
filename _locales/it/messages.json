@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": "Nascondi pulsante di sola raccolta per eBay"
+    "message": "Nascondi il pulsante Solo raccolta per eBay"
   },
   "extensionDescription": {
-    "message": "Aggiunge un pulsante per nascondere gli oggetti di sola collezione su eBay."
+    "message": "Aggiunge un pulsante per nascondere gli oggetti di sola raccolta su eBay."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Nascondi solo raccolta"
   },
   "noBrowserStorageFound": {
-    "message": "Nessuna memoria del browser trovata"
+    "message": "Nessuno spazio di archiviazione del browser trovato"
   },
   "notSavingState": {
-    "message": "non salvando lo stato"
+    "message": "non salvare lo stato"
   },
   "returningDefaultState": {
-    "message": "ritorno allo stato predefinito"
+    "message": "restituendo lo stato predefinito"
+  },
+  "collectionInPerson": {
+    "message": "Ritiro di persona"
   }
 }

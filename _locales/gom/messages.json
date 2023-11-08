@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ईबे खातीर फकत संग्रह बटण लिपोवचें"
+  },
+  "extensionDescription": {
+    "message": "ईबेचेर फकत संग्रह-आयटम लिपोवंक बटण जोडटा."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "फकत संग्रह लिपोवप"
+  },
+  "noBrowserStorageFound": {
+    "message": "ब्राउझर साठवण मेळूंक ना"
+  },
+  "notSavingState": {
+    "message": "वाचवपी राज्य न्हय"
+  },
+  "returningDefaultState": {
+    "message": "मुलभूत स्थिती परत करप"
+  },
+  "collectionInPerson": {
+    "message": "व्यक्तिगत रितीन संग्रह करप"
+  }
+}

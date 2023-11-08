@@ -6,15 +6,18 @@
     "message": "EBay ﯗﺪﯩﺷﻮﻗ ﺎﻜﭘﯘﻧﯘﻛ ﺮﯩﺑ ﻥﯜﭼﯜﺋ ﺵﯗﺭﯘﺷﻮﻳ ﻼ﻿ﯩﻨﯨﺮﯩﻟﺭﯜﺗ ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﻰﻜﯨﺩ."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "ﺵﻼ﻿ﻗﺎﺳ ﭗﯩﻐﯩﻳ ﺕەﻗەﭘ"
+    "message": "ﺶﯩﻐﯩﻳ ﺕەﻗەﭘ"
   },
   "noBrowserStorageFound": {
-    "message": "ﻯﺪﯩﻤﻠﯩﭙﯧﺗ ﯜﮔﺭﯚﻛﺭﻮﺗ"
+    "message": "ﻯﺪﯩﻤﻧﻼ﻿ﻗﺎﺳ ﯜﮔﺭﯚﻛﺭﻮﺗ"
   },
   "notSavingState": {
     "message": "ﯗﺪﻳﺎﻤﻟﺎﻗ ﭖەﺠﯧﺗ ﻰﻨﺗەﻟﯙﺩ"
   },
   "returningDefaultState": {
     "message": "ﺵﯗﺭﯘﺘﻳﺎﻗ ﻰﻨﺗەﻟﺎﮬ ﻰﻜﯩﺘﺗﯜﻛﯜﺳ"
+  },
+  "collectionInPerson": {
+    "message": "ﻰﻤﯩﻠﭘﻮﺗ ﺭەﻠﺴﺧەﺷ"
   }
 }

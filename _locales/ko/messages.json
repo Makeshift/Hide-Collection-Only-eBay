@@ -1,12 +1,12 @@
 {
   "extensionName": {
-    "message": "eBay 컬렉션 전용 버튼 숨기기"
+    "message": "eBay의 컬렉션 전용 버튼 숨기기"
   },
   "extensionDescription": {
     "message": "eBay에서 컬렉션 전용 항목을 숨기는 버튼을 추가합니다."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "컬렉션 전용 숨기기"
+    "message": "컬렉션만 숨기기"
   },
   "noBrowserStorageFound": {
     "message": "브라우저 저장소를 찾을 수 없습니다."
@@ -15,6 +15,9 @@
     "message": "상태를 저장하지 않음"
   },
   "returningDefaultState": {
-    "message": "기본 상태 반환"
+    "message": "기본 상태로 돌아가기"
+  },
+  "collectionInPerson": {
+    "message": "직접 수집"
   }
 }

@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "әдепкі күйді қайтару"
+  },
+  "collectionInPerson": {
+    "message": "Жеке жинақ"
   }
 }

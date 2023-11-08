@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Pakay Huñusqa-Sapalla Botón eBay kaqpaq"
+  },
+  "extensionDescription": {
+    "message": "Huk ñit'inata yapan eBay kaqpi Huñusqa-Sapalla kaqkunamanta pakananpaq."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Huñusqa-Sapalla pakay"
+  },
+  "noBrowserStorageFound": {
+    "message": "Mana maskaq waqaychasqa tarisqachu"
+  },
+  "notSavingState": {
+    "message": "mana waqaychaq estado"
+  },
+  "returningDefaultState": {
+    "message": "kutichispa ñawpaqmanta churasqa estado"
+  },
+  "collectionInPerson": {
+    "message": "Runapi huñuy"
+  }
+}

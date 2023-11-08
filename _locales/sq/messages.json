@@ -9,12 +9,15 @@
     "message": "Fshih vetëm koleksionin"
   },
   "noBrowserStorageFound": {
-    "message": "Nuk u gjet asnjë hapësirë u200bu200bruajtëse e shfletuesit"
+    "message": "Nuk u gjet asnjë hapësirë ruajtëse e shfletuesit"
   },
   "notSavingState": {
     "message": "shtet jo kursimtar"
   },
   "returningDefaultState": {
     "message": "duke e kthyer gjendjen e paracaktuar"
+  },
+  "collectionInPerson": {
+    "message": "Mbledhja personalisht"
   }
 }

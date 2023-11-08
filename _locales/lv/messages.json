@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "noklusējuma stāvokļa atgriešana"
+  },
+  "collectionInPerson": {
+    "message": "Savākšana personīgi"
   }
 }

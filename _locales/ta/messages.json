@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "இயல்புநிலை திரும்பும்"
+  },
+  "collectionInPerson": {
+    "message": "நேரில் சேகரிப்பு"
   }
 }

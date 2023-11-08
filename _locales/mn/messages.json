@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "өгөгдмөл төлөвийг буцаах"
+  },
+  "collectionInPerson": {
+    "message": "Биечлэн цуглуулах"
   }
 }

@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": "Сакриј дугме само за колекцију за еБаи"
+    "message": "Sakrij dugme samo za kolekciju za eBay"
   },
   "extensionDescription": {
-    "message": "Додаје дугме за сакривање ставки само за колекцију на еБаи-у."
+    "message": "Dodaje dugme za skrivanje stavki samo za kolekciju na eBay-u."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "Сакриј само колекцију"
+    "message": "Sakrij samo kolekciju"
   },
   "noBrowserStorageFound": {
-    "message": "Није пронађено складиште прегледача"
+    "message": "Nije pronađeno skladište pregledača"
   },
   "notSavingState": {
-    "message": "не спасавајућа држава"
+    "message": "ne štedi državu"
   },
   "returningDefaultState": {
-    "message": "враћање подразумеваног стања"
+    "message": "vraćanje podrazumevanog stanja"
+  },
+  "collectionInPerson": {
+    "message": "Kolekcija lično"
   }
 }

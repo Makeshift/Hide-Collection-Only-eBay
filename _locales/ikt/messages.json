@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Hide Collection-Only Button-mik eBay-mik"
+  },
+  "extensionDescription": {
+    "message": "Ilalugit naqitaut amiqnik Katitiqhimayut-Tamainit hunat uvani eBaymi."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Hide-nik Katitiqhimayut-Avaliinaq"
+  },
+  "noBrowserStorageFound": {
+    "message": "Piqangitun qiniqhiayukharnik tutquqtigivikharnik nalvaaqhimayut"
+  },
+  "notSavingState": {
+    "message": "atuqpallaangittuq"
+  },
+  "returningDefaultState": {
+    "message": "utiqtuq"
+  },
+  "collectionInPerson": {
+    "message": "Katitiriniq inungmun"
+  }
+}

@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "демейки абалды кайтаруу"
+  },
+  "collectionInPerson": {
+    "message": "Жеке чогултуу"
   }
 }

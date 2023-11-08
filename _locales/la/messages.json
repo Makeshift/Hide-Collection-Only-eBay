@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "default reddens statum"
+  },
+  "collectionInPerson": {
+    "message": "Collectio in persona"
   }
 }

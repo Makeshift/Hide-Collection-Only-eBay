@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "സ്ഥിരസ്ഥിതിയായി മടങ്ങുന്നു"
+  },
+  "collectionInPerson": {
+    "message": "വ്യക്തിപരമായി ശേഖരണം"
   }
 }

@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "boemo ba kamehla ba ho kgutlisa"
+  },
+  "collectionInPerson": {
+    "message": "Pokello ka seqo"
   }
 }

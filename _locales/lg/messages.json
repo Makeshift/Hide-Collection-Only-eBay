@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Hide Collection-Only Button ya eBay"
+  },
+  "extensionDescription": {
+    "message": "Ayongerako button okukweka ebintu bya Collection-Only ku eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Kweka Okukunganya-Okwokka"
+  },
+  "noBrowserStorageFound": {
+    "message": "Tewali kifo kya bulawuzi kizuuliddwa"
+  },
+  "notSavingState": {
+    "message": "si kutaasa mbeera"
+  },
+  "returningDefaultState": {
+    "message": "okudda embeera esookerwako"
+  },
+  "collectionInPerson": {
+    "message": "Okukunganya mu buntu"
+  }
+}

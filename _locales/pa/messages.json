@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "eBay ਲਈ ਸੰਗ੍ਰਹਿ-ਓਨਲੀ ਬਟਨ ਲੁਕਾਓ"
+    "message": "eBay ਲਈ ਸੰਗ੍ਰਹਿ-ਓਨਲੀ ਬਟਨ ਨੂੰ ਲੁਕਾਓ"
   },
   "extensionDescription": {
     "message": "eBay 'ਤੇ ਸਿਰਫ਼-ਸੰਗ੍ਰਹਿ ਆਈਟਮਾਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਇੱਕ ਬਟਨ ਜੋੜਦਾ ਹੈ।"
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ਪੂਰਵ-ਨਿਰਧਾਰਤ ਸਥਿਤੀ ਵਾਪਸ ਕਰ ਰਿਹਾ ਹੈ"
+  },
+  "collectionInPerson": {
+    "message": "ਵਿਅਕਤੀਗਤ ਰੂਪ ਵਿੱਚ ਸੰਗ੍ਰਹਿ"
   }
 }

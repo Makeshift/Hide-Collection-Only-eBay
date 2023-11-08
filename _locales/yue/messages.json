@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "屈eBay嘅桎梏僅收藏撳掣"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "添加一個按鈕以隱藏eBay上嘅“僅限收藏”項目。"
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "僅隱藏集合"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "未搵到瀏覽器存儲空間"
   },
   "notSavingState": {
-    "message": ""
+    "message": "未保存狀態"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "返回默認狀態"
+  },
+  "collectionInPerson": {
+    "message": "親自領取"
   }
 }

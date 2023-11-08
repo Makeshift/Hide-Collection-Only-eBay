@@ -1,12 +1,12 @@
 {
   "extensionName": {
-    "message": "Ẩn nút Chỉ Bộ sưu tập cho eBay"
+    "message": "Ẩn nút chỉ thu thập cho eBay"
   },
   "extensionDescription": {
-    "message": "Thêm nút để ẩn các mục Chỉ Bộ sưu tập trên eBay."
+    "message": "Thêm nút để ẩn các mục Chỉ dành cho Bộ sưu tập trên eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "Ẩn Chỉ Bộ sưu tập"
+    "message": "Ẩn chỉ bộ sưu tập"
   },
   "noBrowserStorageFound": {
     "message": "Không tìm thấy bộ nhớ trình duyệt"
@@ -15,6 +15,9 @@
     "message": "không lưu trạng thái"
   },
   "returningDefaultState": {
-    "message": "trở lại trạng thái mặc định"
+    "message": "trở về trạng thái mặc định"
+  },
+  "collectionInPerson": {
+    "message": "Bộ sưu tập trực tiếp"
   }
 }

@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "mulangkeun kaayaan standar"
+  },
+  "collectionInPerson": {
+    "message": "Koléksi pribadi"
   }
 }

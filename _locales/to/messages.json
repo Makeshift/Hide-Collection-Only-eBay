@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "Fufuuʻi ʻa e meʻa lomi pe kuo tanaki ki he eBay"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "Tanaki atu ha meʻa lomi ke fufuuʻi ʻaki e ngaahi meʻa pe kuo tanaki ʻi he eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Fufuuʻi pe ʻa e collection-pe"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "ʻIkai maʻu ha browser storage"
   },
   "notSavingState": {
-    "message": ""
+    "message": "ʻikai ko e tuʻunga fakahaofi"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "fakafoki mai ʻo e tuʻunga ne ʻuluaki seti"
+  },
+  "collectionInPerson": {
+    "message": "Fakatahatahaʻi ʻo e tokotaha"
   }
 }

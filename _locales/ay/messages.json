@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Imantaña Colección-Uka Botón eBay ukataki"
+  },
+  "extensionDescription": {
+    "message": "Mä botón yapxati Colección-Only ukanak eBay ukan imantañataki."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Imantaña Colección-Ukakiwa"
+  },
+  "noBrowserStorageFound": {
+    "message": "Janiw mä navegador ukan imañ utapax jikxataskiti"
+  },
+  "notSavingState": {
+    "message": "janiwa estado salvar"
+  },
+  "returningDefaultState": {
+    "message": "estado default ukar kutt’ayaña"
+  },
+  "collectionInPerson": {
+    "message": "Jaqinakaru apthapiña"
+  }
+}

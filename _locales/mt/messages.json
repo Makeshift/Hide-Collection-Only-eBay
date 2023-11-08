@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "li jirritorna l-istat default"
+  },
+  "collectionInPerson": {
+    "message": "Ġbir personalment"
   }
 }

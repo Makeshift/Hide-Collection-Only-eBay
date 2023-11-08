@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Pata Konopo ya Kgoboketšo-Fela bakeng sa eBay"
+  },
+  "extensionDescription": {
+    "message": "E tlaleletša konope ya go uta dilo tša Kgoboketšo-Fela go eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Pata Kgoboketšo-Fela"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ga go na polokelo ya sephephediši yeo e hweditšwego"
+  },
+  "notSavingState": {
+    "message": "e sego mmušo wa go boloka"
+  },
+  "returningDefaultState": {
+    "message": "go khutlela boemo bja default"
+  },
+  "collectionInPerson": {
+    "message": "Kgoboketšo ka sebele"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "《 ᠵᠥᠪᠬᠡᠨ ᠬᠤᠷᠢᠶᠠᠨ ᠬᠠᠳᠠᠭᠠᠯᠠᠬᠤ 》 ᠳᠠᠷᠤᠭᠤᠯ ᠢ ᠨᠢᠭᠤᠨ ᠬᠠᠳᠠᠭᠠᠯᠠᠨ᠎ᠠ ᠃"
+  },
+  "extensionDescription": {
+    "message": "ᠨᠢᠭᠡ ᠳᠠᠷᠤᠭᠤᠯ ᠨᠡᠮᠡᠵᠦ eBay ᠳᠡᠭᠡᠷᠡᠬᠢ 《 ᠵᠥᠪᠬᠡᠨ ᠬᠤᠷᠢᠶᠠᠨ ᠬᠠᠳᠠᠭᠠᠯᠠᠬᠤ ᠶᠢ ᠬᠢᠵᠠᠭᠠᠷᠯᠠᠬᠤ 》 ᠲᠥᠰᠥᠪ ᠨᠡᠮᠡᠵᠡᠶ ᠃"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ᠵᠦᠪᠭᠡᠨ ᠨᠢᠭᠤᠵᠤ ᠴᠤᠭᠯᠠᠷᠠᠨ᠎ᠠ᠃"
+  },
+  "noBrowserStorageFound": {
+    "message": "ᠦᠵᠡᠭᠦᠯᠦᠭᠦᠷ ᠦᠨ ᠬᠠᠳᠠᠭᠠᠯᠠᠬᠤ ᠣᠷᠣᠨ ᠵᠠᠶ ᠶᠢ ᠡᠷᠢᠵᠦ ᠣᠯᠣᠭᠰᠠᠨ ᠦᠭᠡᠢ ᠃"
+  },
+  "notSavingState": {
+    "message": "ᠬᠠᠳᠠᠭᠠᠯᠠᠭᠰᠠᠨ ᠦᠭᠡᠶ ᠪᠠᠶᠢᠳᠠᠯ ᠢ ᠬᠠᠳᠠᠭᠠᠯᠠᠭᠰᠠᠨ ᠦᠭᠡᠶ᠃"
+  },
+  "returningDefaultState": {
+    "message": "ᠳᠤᠪ ᠳᠤᠭᠤᠢ ᠪᠠᠶᠢᠳᠠᠯ ᠳᠠᠭᠠᠨ ᠪᠤᠴᠠᠵᠤ ᠢᠷᠡᠨ᠎ᠡ ᠃"
+  },
+  "collectionInPerson": {
+    "message": "ᠪᠡᠶ᠎ᠡ ᠪᠡᠷ ᠢᠶᠡᠨ ᠠᠪᠬᠤ ᠃"
+  }
+}

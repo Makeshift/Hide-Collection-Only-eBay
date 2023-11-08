@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "návratom do predvoleného stavu"
+  },
+  "collectionInPerson": {
+    "message": "Odber osobne"
   }
 }

@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "Taan in ta'akik le botón chéen colección utia'al u eBay"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "Añade jump'éel botón utia'al taan ta'akik le artículos chéen colección ti' eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Taan in ta'akik chéen colección"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "Ma' u ts'o'ok Kaxa'antbil almacenamiento ti' le navegador"
   },
   "notSavingState": {
-    "message": ""
+    "message": "Ma' ooks le noj"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "Suutik le noj predeterminado"
+  },
+  "collectionInPerson": {
+    "message": "Recogida presencial"
   }
 }

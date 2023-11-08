@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": "ईबे के लिए संग्रह-केवल बटन छुपाएं"
+    "message": "ईबे के लिए केवल-संग्रह बटन छिपाएँ"
   },
   "extensionDescription": {
-    "message": "ईबे पर केवल-संग्रह-वस्तुओं को छिपाने के लिए एक बटन जोड़ता है।"
+    "message": "eBay पर केवल संग्रह वाली वस्तुओं को छिपाने के लिए एक बटन जोड़ता है।"
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "केवल संग्रह छुपाएं"
+    "message": "केवल-संग्रह छिपाएँ"
   },
   "noBrowserStorageFound": {
     "message": "कोई ब्राउज़र संग्रहण नहीं मिला"
   },
   "notSavingState": {
-    "message": "राज्य की बचत नहीं"
+    "message": "राज्य को नहीं बचा रहा"
   },
   "returningDefaultState": {
-    "message": "डिफ़ॉल्ट स्थिति लौटाना"
+    "message": "डिफ़ॉल्ट स्थिति लौटा रहा है"
+  },
+  "collectionInPerson": {
+    "message": "व्यक्तिगत रूप से संग्रह करना"
   }
 }

@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "తిరిగి డిఫాల్ట్ స్థితి"
+  },
+  "collectionInPerson": {
+    "message": "వ్యక్తిగతంగా సేకరణ"
   }
 }

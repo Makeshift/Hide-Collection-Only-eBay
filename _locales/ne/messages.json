@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "पूर्वनिर्धारित स्थिति फर्काउँदै"
+  },
+  "collectionInPerson": {
+    "message": "व्यक्तिगत रूपमा संग्रह"
   }
 }

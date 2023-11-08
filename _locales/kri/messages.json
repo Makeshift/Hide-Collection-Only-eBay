@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Hide Kɔlɛkshɔn-Onli Bɔtin fɔ ibay"
+  },
+  "extensionDescription": {
+    "message": "Ad wan bɔtin fɔ ayd Kɔlɛkshɔn-Onli tin dɛn na ibay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Ayd Kɔlɛkshɔn-Onli"
+  },
+  "noBrowserStorageFound": {
+    "message": "No brawza stɔrɔj nɔ fɛn"
+  },
+  "notSavingState": {
+    "message": "nɔto fɔ sev stet"
+  },
+  "returningDefaultState": {
+    "message": "ritɔn difɔlt stet"
+  },
+  "collectionInPerson": {
+    "message": "Kɔlɛkshɔn insay pɔsin"
+  }
+}

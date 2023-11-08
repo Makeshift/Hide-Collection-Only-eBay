@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "amiit avvuiniq−kisiani kisiani eBay"
+  },
+  "extensionDescription": {
+    "message": "naqittijjutimik ilasivuq ijiqsimalugu katiqsuinirmut−piqutituanut qaritaujakkut."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "aminginnik katiqsuiniq−kisiani"
+  },
+  "noBrowserStorageFound": {
+    "message": "qinirutimik tuqquqsisimavviktaqanngittuq"
+  },
+  "notSavingState": {
+    "message": "atuluaqtailiniq"
+  },
+  "returningDefaultState": {
+    "message": "utiqtuq akiliinnginnirmut"
+  },
+  "collectionInPerson": {
+    "message": "nuatsiniq upagutiluni"
+  }
+}

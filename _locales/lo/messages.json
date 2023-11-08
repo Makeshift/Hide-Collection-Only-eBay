@@ -12,9 +12,12 @@
     "message": "ບໍ່ພົບບ່ອນເກັບຂໍ້ມູນຂອງຕົວທ່ອງເວັບ"
   },
   "notSavingState": {
-    "message": "ບໍ່u200bໄດ້u200bປະu200bຢັດu200bລັດu200b"
+    "message": "ບໍ່ໄດ້ປະຢັດລັດ"
   },
   "returningDefaultState": {
     "message": "ກັບຄືນສະຖານະເລີ່ມຕົ້ນ"
+  },
+  "collectionInPerson": {
+    "message": "ການເກັບກໍາດ້ວຍຕົນເອງ"
   }
 }

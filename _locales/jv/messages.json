@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "bali status gawan"
+  },
+  "collectionInPerson": {
+    "message": "Koleksi ing wong"
   }
 }

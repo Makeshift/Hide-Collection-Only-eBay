@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ka hoʻihoʻi ʻana i ke kūlana paʻamau"
+  },
+  "collectionInPerson": {
+    "message": "ʻOhi kino"
   }
 }

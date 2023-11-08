@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "standart holatni qaytarish"
+  },
+  "collectionInPerson": {
+    "message": "Shaxsan yig'ish"
   }
 }

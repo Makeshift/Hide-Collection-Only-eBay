@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "riturnà u statu predeterminatu"
+  },
+  "collectionInPerson": {
+    "message": "Raccolta in persona"
   }
 }

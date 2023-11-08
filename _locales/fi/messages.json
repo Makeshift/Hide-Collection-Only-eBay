@@ -3,7 +3,7 @@
     "message": "Piilota kokoelma-painike eBaylle"
   },
   "extensionDescription": {
-    "message": "Lisää painikkeen, jolla piilotetaan vain kokoelmaan kuuluvat kohteet eBayssa."
+    "message": "Lisää painikkeen vain kokoelmaan kuuluvien kohteiden piilottamiseksi eBayssa."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Piilota vain kokoelma"
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "palauttaa oletustilan"
+  },
+  "collectionInPerson": {
+    "message": "Nouto henkilökohtaisesti"
   }
 }

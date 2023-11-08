@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "баргардонидани ҳолати пешфарз"
+  },
+  "collectionInPerson": {
+    "message": "Ҷамъоварӣ дар шахс"
   }
 }

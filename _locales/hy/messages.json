@@ -9,12 +9,15 @@
     "message": "Թաքցնել միայն հավաքածուն"
   },
   "noBrowserStorageFound": {
-    "message": "Բրաուզերի պահոց չի գտնվել"
+    "message": "Բրաուզերի պահեստ չի գտնվել"
   },
   "notSavingState": {
     "message": "ոչ փրկող պետություն"
   },
   "returningDefaultState": {
     "message": "վերադարձնում է լռելյայն վիճակը"
+  },
+  "collectionInPerson": {
+    "message": "Հավաքածու անձամբ"
   }
 }

@@ -9,12 +9,15 @@
     "message": "Nana Aoina-Na'o"
   },
   "noBrowserStorageFound": {
-    "message": "Leai se mea e teu ai su'esu'ega na maua"
+    "message": "Leai se mea e teu ai masini na maua"
   },
   "notSavingState": {
     "message": "le sefe setete"
   },
   "returningDefaultState": {
     "message": "toe faafoi tulaga faaletonu"
+  },
+  "collectionInPerson": {
+    "message": "Aoina i le tagata lava ia"
   }
 }

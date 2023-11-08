@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "Vunitaka na iBulukau ni iKumuni-Walega me baleta na eBay"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "Vakuria e dua na bulukau me vunitaki kina na iyaya ni iKumuni-walega ena eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Vunitaka na iKumuni-Walega"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "Sega ni kune e dua na mamaroroi ni barausa"
   },
   "notSavingState": {
-    "message": ""
+    "message": "sega ni ituvaki ni veivakabulai"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "ituvaki ni lesu mai"
+  },
+  "collectionInPerson": {
+    "message": "iKumuni vakatamata"
   }
 }

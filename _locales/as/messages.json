@@ -1,9 +1,9 @@
 {
   "extensionName": {
-    "message": "ইবেৰ বাবে কেৱল সংগ্ৰহ-বুটাম লুকুৱাওক"
+    "message": "ইবেৰ বাবে কেৱল সংগ্ৰহ-কেৱল বুটাম লুকুৱাওক"
   },
   "extensionDescription": {
-    "message": "ইবেত কেৱল সংগ্ৰহৰ বস্তুসমূহ লুকুৱাবলৈ এটা বুটাম যোগ কৰে।"
+    "message": "ইবেত কেৱল সংগ্ৰহ-বস্তু লুকুৱাবলৈ এটা বুটাম যোগ কৰে।"
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "কেৱল সংগ্ৰহ লুকুৱাওক"
@@ -12,9 +12,12 @@
     "message": "কোনো ব্ৰাউজাৰ সংৰক্ষণ পোৱা নগ'ল"
   },
   "notSavingState": {
-    "message": "ৰক্ষা কৰা অৱস্থা নহয়"
+    "message": "চেভিং ষ্টেট নহয়"
   },
   "returningDefaultState": {
-    "message": "অবিকল্পিত অৱস্থা ঘূৰাই দিছে"
+    "message": "অবিকল্পিত অৱস্থা ঘূৰাই দিয়া হৈছে"
+  },
+  "collectionInPerson": {
+    "message": "ব্যক্তিগতভাৱে সংগ্ৰহ কৰা"
   }
 }

@@ -1,9 +1,9 @@
 {
   "extensionName": {
-    "message": "Oñomi Ñembyatyrã añoite Botón eBay-pe g̃uarã"
+    "message": "Oñomi Botón Colección-Sólo eBay-pe g̃uarã"
   },
   "extensionDescription": {
-    "message": "Omoĩ peteĩ botón omokañy hag̃ua umi mba’e Colección-pe g̃uarãnte eBay-pe."
+    "message": "Omoĩ peteĩ botón omokañy hag̃ua umi mbaꞌe Colección-Sólo eBay-pe."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Oñomi Ñembyaty-Sólo"
@@ -15,6 +15,9 @@
     "message": "ndaha’éi estado osalváva"
   },
   "returningDefaultState": {
-    "message": "ombojevy estado por defecto rehegua"
+    "message": "ombojevývo estado por defecto"
+  },
+  "collectionInPerson": {
+    "message": "Oñembyaty en persona"
   }
 }

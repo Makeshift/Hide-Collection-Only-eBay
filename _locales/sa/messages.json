@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ईबे कृते केवलं संग्रह-बटनं गोपयन्तु"
+  },
+  "extensionDescription": {
+    "message": "eBay इत्यत्र Collection-Only इति वस्तूनि गोपनार्थं बटनं योजयति ।"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "संग्रह-केवलं गोपयतु"
+  },
+  "noBrowserStorageFound": {
+    "message": "ब्राउजर्-भण्डारणं न प्राप्तम्"
+  },
+  "notSavingState": {
+    "message": "न रक्षन् अवस्था"
+  },
+  "returningDefaultState": {
+    "message": "पूर्वनिर्धारितस्थितिं प्रत्यागच्छति"
+  },
+  "collectionInPerson": {
+    "message": "व्यक्तिगतरूपेण संग्रहणम्"
+  }
+}

@@ -3,18 +3,21 @@
     "message": "Sembunyikan Tombol Khusus Koleksi untuk eBay"
   },
   "extensionDescription": {
-    "message": "Menambahkan tombol untuk menyembunyikan item Koleksi-Hanya di eBay."
+    "message": "Menambahkan tombol untuk menyembunyikan item Khusus Koleksi di eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "Sembunyikan Koleksi-Hanya"
+    "message": "Sembunyikan Khusus Koleksi"
   },
   "noBrowserStorageFound": {
     "message": "Tidak ditemukan penyimpanan browser"
   },
   "notSavingState": {
-    "message": "tidak menyimpan status"
+    "message": "tidak menyelamatkan negara"
   },
   "returningDefaultState": {
-    "message": "mengembalikan status default"
+    "message": "mengembalikan keadaan default"
+  },
+  "collectionInPerson": {
+    "message": "Koleksi secara langsung"
   }
 }

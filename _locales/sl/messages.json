@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "vrnitev privzetega stanja"
+  },
+  "collectionInPerson": {
+    "message": "Osebni prevzem"
   }
 }

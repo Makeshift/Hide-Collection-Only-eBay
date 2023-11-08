@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Fihla Batani ya Nhlengeleto-Ntsena ya eBay"
+  },
+  "extensionDescription": {
+    "message": "Ku engetela buti ku fihla swilo swa Nhlengeleto-Ntsena eka eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Fihla Nhlengeleto-Ntsena"
+  },
+  "noBrowserStorageFound": {
+    "message": "Ku hava vuhlayiselo bya browser lebyi kumiweke"
+  },
+  "notSavingState": {
+    "message": "ku nga ri ku hlayisa xiyimo"
+  },
+  "returningDefaultState": {
+    "message": "ku vuyisa xiyimo xa xiviri"
+  },
+  "collectionInPerson": {
+    "message": "Ku hlengeleta hi xiviri"
+  }
+}

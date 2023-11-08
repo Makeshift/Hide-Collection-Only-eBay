@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ईबे खातिर संग्रह-केवल बटन छिपाईं"
+  },
+  "extensionDescription": {
+    "message": "ईबे पर संग्रह-केवल आइटम के छिपावे खातिर एगो बटन जोड़ल जाला।"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "संग्रह-केवल छिपावे के बा"
+  },
+  "noBrowserStorageFound": {
+    "message": "कवनो ब्राउजर स्टोरेज ना मिलल"
+  },
+  "notSavingState": {
+    "message": "ना बचावे वाला राज्य"
+  },
+  "returningDefaultState": {
+    "message": "डिफ़ॉल्ट स्थिति वापस कर रहल बा"
+  },
+  "collectionInPerson": {
+    "message": "व्यक्तिगत रूप से संग्रहण कइल जाला"
+  }
+}

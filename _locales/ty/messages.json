@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "Huna i te mau pitopito no te eBay"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "A tuu i te hoê pitopito no te huna i te mau tauihaa i ni'a i te eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Huna i te haapu'eraa"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "Aita e haaputuraa itenati i itehia"
   },
   "notSavingState": {
-    "message": ""
+    "message": "eiaha e haaputu i te moni"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "te ho'iraa mai o te hape"
+  },
+  "collectionInPerson": {
+    "message": "Haaputuraa i te moni i roto i te taata iho"
   }
 }

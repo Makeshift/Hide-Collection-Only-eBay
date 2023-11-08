@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "eBay өсөн коллекцияны йәшереү төймәһе"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "eBay-ҙа Collection-Only әйберҙәрен йәшереү өсөн төймә өҫтәй."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Йәшенеү коллекцияһы ғына"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "Браузер һаҡлағысы табылмаған"
   },
   "notSavingState": {
-    "message": ""
+    "message": "дәүләтте ҡотҡармай"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "дефолт хәлен кире ҡайтарыу"
+  },
+  "collectionInPerson": {
+    "message": "Йыйынтыҡ шәхсән"
   }
 }

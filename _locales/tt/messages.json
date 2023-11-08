@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "килешү халәтен кайтару"
+  },
+  "collectionInPerson": {
+    "message": "Коллекция"
   }
 }

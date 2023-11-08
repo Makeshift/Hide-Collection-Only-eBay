@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": "eBay ﻊﻗﻮﻤﻟ ﻂﻘﻓ ﻊﻴﻤﺠﺘﻟﺍ ﺭﺯ ءﺎﻔﺧﺇ"
+    "message": "eBay ﻊﻗﻮﻤﻟ ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺭﺯ ءﺎﻔﺧﺇ"
   },
   "extensionDescription": {
-    "message": ".eBay ﻰﻠﻋ ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺮﺻﺎﻨﻋ ءﺎﻔﺧﻹ﻿ ﺍﺭًﺯ ﻒﻴﻀﻳ"
+    "message": ".eBay ﻊﻗﻮﻣ ﻰﻠﻋ ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺮﺻﺎﻨﻋ ءﺎﻔﺧﻹ﻿ ﺭﺯ ﺔﻓﺎﺿﺇ"
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "ﻂﻘﻓ ﺔﻋﻮﻤﺠﻤﻟﺍ ءﺎﻔﺧﺇ"
   },
   "noBrowserStorageFound": {
-    "message": "ﺢﻔﺼﺘﻤﻠﻟ ﻦﻳﺰﺨﺗ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ"
+    "message": "ﺢﻔﺼﺘﻤﻠﻟ ﻦﻳﺰﺨﺗ ﺔﺣﺎﺴﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ"
   },
   "notSavingState": {
-    "message": "ﺔﻟﻭﺪﻟﺍ ﻆﻔﺤﺗ ﻻ﻿"
+    "message": "ﺔﻟﻭﺪﻟﺍ ﻆﻔﺣ ﻡﺪﻋ"
   },
   "returningDefaultState": {
     "message": "ﺔﻴﺿﺍﺮﺘﻓﻻ﻿ﺍ ﺔﻟﺎﺤﻟﺍ ﻉﺎﺟﺭﺇ"
+  },
+  "collectionInPerson": {
+    "message": "ﺎﻴﺼﺨﺷ ﻊﻤﺟ"
   }
 }

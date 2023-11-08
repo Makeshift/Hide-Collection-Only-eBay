@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ነባሪ ሁኔታን በመመለስ ላይ"
+  },
+  "collectionInPerson": {
+    "message": "ስብስብ በአካል"
   }
 }

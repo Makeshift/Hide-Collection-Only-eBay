@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "връщане на състоянието по подразбиране"
+  },
+  "collectionInPerson": {
+    "message": "Лично вземане"
   }
 }

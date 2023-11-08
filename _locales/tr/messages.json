@@ -12,9 +12,12 @@
     "message": "Tarayıcı depolama alanı bulunamadı"
   },
   "notSavingState": {
-    "message": "durumu kaydetmemek"
+    "message": "durum kaydedilmiyor"
   },
   "returningDefaultState": {
     "message": "varsayılan durumu döndürme"
+  },
+  "collectionInPerson": {
+    "message": "Şahsen tahsilat"
   }
 }

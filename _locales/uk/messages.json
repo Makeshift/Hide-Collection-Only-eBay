@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "повернення стану за замовчуванням"
+  },
+  "collectionInPerson": {
+    "message": "Забір особисто"
   }
 }

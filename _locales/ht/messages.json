@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "retounen eta default"
+  },
+  "collectionInPerson": {
+    "message": "Koleksyon an pèsòn"
   }
 }

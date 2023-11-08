@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ಡೀಫಾಲ್ಟ್ ಸ್ಥಿತಿಯನ್ನು ಹಿಂದಿರುಗಿಸುತ್ತದೆ"
+  },
+  "collectionInPerson": {
+    "message": "ವೈಯಕ್ತಿಕವಾಗಿ ಸಂಗ್ರಹಣೆ"
   }
 }

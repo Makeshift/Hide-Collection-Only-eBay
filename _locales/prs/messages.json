@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ﯽﺑ ﯼﺍ ﯼﺍﺮﺑ ﻂﻘﻓ ﻪﻤﮐﺩ ﻥﺩﺮﮐ ﻥﺎﻬﻨﭘ"
+  },
+  "extensionDescription": {
+    "message": ".ﺪﻨﮐ ﯽﻣ ﻪﻓﺎﺿﺍ ﯽﺑ ﯼﺍ ﺭﺩ ﻪﻋﻮﻤﺠﻣ ﻂﻘﻓ ﺩﺭﺍﻮﻣ ﻥﺩﺮﮐ ﻥﺎﻬﻨﭘ ﯼﺍﺮﺑ ﻪﻤﮐﺩ ﮏﯾ"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ﺎﻬﻨﺗ ﻪﻋﻮﻤﺠﻣ ﻥﺩﺮﮐ ﻥﺎﻬﻨﭘ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ﺪﺸﻧ ﺖﻓﺎﯾ ﺮﮔﺭﻭﺮﻣ ﯼﺯﺎﺳ ﻩﺮﯿﺧﺫ ﭻﯿﻫ"
+  },
+  "notSavingState": {
+    "message": "ﺪﻫﺩ ﯽﻤﻧ ﺕﺎﺠﻧ ﺍﺭ ﺖﻟﻭﺩ"
+  },
+  "returningDefaultState": {
+    "message": "ﺽﺮﻓ ﺶﯿﭘ ﺖﻟﺎﺣ ﺖﺸﮔﺯﺎﺑ"
+  },
+  "collectionInPerson": {
+    "message": "ﺎﺼﺨﺷ ﯼﺭﻭﺁ ﻊﻤﺟ"
+  }
+}

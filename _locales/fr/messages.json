@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Masquer le bouton Collection uniquement pour eBay"
+    "message": "Masquer le bouton de collection uniquement pour eBay"
   },
   "extensionDescription": {
     "message": "Ajoute un bouton pour masquer les objets de collection uniquement sur eBay."
@@ -12,9 +12,12 @@
     "message": "Aucun stockage de navigateur trouvé"
   },
   "notSavingState": {
-    "message": "pas d'enregistrement de l'état"
+    "message": "ne pas sauvegarder l'état"
   },
   "returningDefaultState": {
     "message": "retour de l'état par défaut"
+  },
+  "collectionInPerson": {
+    "message": "Collection en personne"
   }
 }

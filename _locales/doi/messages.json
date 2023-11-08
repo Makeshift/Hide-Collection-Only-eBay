@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ईबे लेई संग्रह-केवल बटन छुपाओ"
+  },
+  "extensionDescription": {
+    "message": "ईबे पर संग्रह-केवल आइटमें गी छुपाने लेई इक बटन जोड़दा ऐ।"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "संग्रह-केवल छिपाओ"
+  },
+  "noBrowserStorageFound": {
+    "message": "कोई ब्राउज़र स्टोरेज नेईं लब्भा"
+  },
+  "notSavingState": {
+    "message": "ना बचाने वाला राज्य"
+  },
+  "returningDefaultState": {
+    "message": "डिफ़ॉल्ट स्थिति वापस करदा ऐ"
+  },
+  "collectionInPerson": {
+    "message": "व्यक्तिगत तौर पर संग्रहण"
+  }
+}

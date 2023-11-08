@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "Nkaum Sau-Tsuas khawm rau eBay"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "Ntxiv ib lub pob kom nkaum Collection-Tsuas yog cov khoom ntawm eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Hide Collection-Tsuas"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "Tsis pom qhov browser cia"
   },
   "notSavingState": {
-    "message": ""
+    "message": "tsis txuag lub xeev"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "rov qab lub xeev qub"
+  },
+  "collectionInPerson": {
+    "message": "Collection ntawm tus kheej"
   }
 }

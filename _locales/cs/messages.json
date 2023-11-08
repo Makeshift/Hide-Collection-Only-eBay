@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "návrat do výchozího stavu"
+  },
+  "collectionInPerson": {
+    "message": "Osobní odběr"
   }
 }

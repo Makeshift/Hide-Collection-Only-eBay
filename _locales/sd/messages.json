@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "eBay ﻮﻳﺎڪﻟ ﮡٽﺑ ﻑﺮﺻ-ﻦﺸڪﻴﻠڪ ءِﻻ﻿"
+    "message": "ءِﻻ﻿ eBay ﮡٽﺑ ﻑﺮﺻ-ﻦﺸڪﻴﻠڪ ﻮﻳﺎڪﻟ"
   },
   "extensionDescription": {
     "message": "eBay ﻮﭤ ﻱﺮڪ ﻞﻣﺎﺷ ﮡٽﺑ ڪﻫ ءِﻻ﻿ ﮡﺋﺎڪﻟ ﻥﻮﻴﺷ ﻑﺮﺻ-ﻦﺸڪﻴﻠڪ ﻲﺗ."
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ﺖﻟﺎﺣ ٽﻟﺎﻓڊ ﻲﺴﭘﺍﻭ"
+  },
+  "collectionInPerson": {
+    "message": "ﻊﻤﺟ ۾ ﻲﺗﺍﺫ"
   }
 }

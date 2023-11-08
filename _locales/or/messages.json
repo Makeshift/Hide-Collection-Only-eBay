@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ଡିଫଲ୍ଟ ଅବସ୍ଥା ଫେରସ୍ତ"
+  },
+  "collectionInPerson": {
+    "message": "ବ୍ୟକ୍ତିଗତ ଭାବରେ ସଂଗ୍ରହ |"
   }
 }

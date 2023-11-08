@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "вяртанне стану па змаўчанні"
+  },
+  "collectionInPerson": {
+    "message": "Асабісты збор"
   }
 }

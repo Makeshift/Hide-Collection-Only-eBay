@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "eBay tan Collection-Only Button thup"
+  },
+  "extensionDescription": {
+    "message": "eBay-a Collection-Only thil awmte thup theihna tur button a dah tel bawk."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Collection-Only thup rawh"
+  },
+  "noBrowserStorageFound": {
+    "message": "Browser storage hmuh tur a awm lo"
+  },
+  "notSavingState": {
+    "message": "saving state ni lo"
+  },
+  "returningDefaultState": {
+    "message": "default state a rawn kir leh"
+  },
+  "collectionInPerson": {
+    "message": "Mimal takin lakkhawm a ni"
+  }
+}

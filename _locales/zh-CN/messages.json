@@ -3,18 +3,21 @@
     "message": "隐藏 eBay 的仅收藏按钮"
   },
   "extensionDescription": {
-    "message": "添加一个按钮以隐藏 eBay 上仅限收藏的项目。"
+    "message": "添加一个按钮来隐藏 eBay 上的仅限收藏的商品。"
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "仅隐藏收藏"
+    "message": "隐藏仅限收藏"
   },
   "noBrowserStorageFound": {
-    "message": "未找到浏览器存储"
+    "message": "找不到浏览器存储"
   },
   "notSavingState": {
     "message": "不保存状态"
   },
   "returningDefaultState": {
     "message": "返回默认状态"
+  },
+  "collectionInPerson": {
+    "message": "亲自领取"
   }
 }

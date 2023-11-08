@@ -6,7 +6,7 @@
     "message": "eBay-də Yalnız Kolleksiyada olan əşyaları gizlətmək üçün düymə əlavə edir."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "Yalnız Kolleksiyanı gizlədin"
+    "message": "Yalnız Kolleksiyanı Gizlət"
   },
   "noBrowserStorageFound": {
     "message": "Brauzer yaddaşı tapılmadı"
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "defolt vəziyyəti qaytarır"
+  },
+  "collectionInPerson": {
+    "message": "Şəxsi kolleksiya"
   }
 }

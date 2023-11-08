@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "डीफॉल्ट स्थिती परत करत आहे"
+  },
+  "collectionInPerson": {
+    "message": "वैयक्तिकरित्या संग्रह"
   }
 }

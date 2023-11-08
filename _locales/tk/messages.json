@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "EBay üçin diňe kolleksiýa düwmesini gizläň"
+    "message": "“EBay” üçin diňe kolleksiýa düwmesini gizläň"
   },
   "extensionDescription": {
     "message": "EBay-da Diňe Kolleksiýa elementlerini gizlemek üçin düwme goşýar."
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "gaýybana ýagdaýy"
+  },
+  "collectionInPerson": {
+    "message": "Şahsy ýygyndy"
   }
 }

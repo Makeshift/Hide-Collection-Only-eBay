@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "lehenetsitako egoera itzultzea"
+  },
+  "collectionInPerson": {
+    "message": "Bilketa pertsonalki"
   }
 }

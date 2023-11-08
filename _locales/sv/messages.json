@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "returnerar standardtillstånd"
+  },
+  "collectionInPerson": {
+    "message": "Samling personligen"
   }
 }

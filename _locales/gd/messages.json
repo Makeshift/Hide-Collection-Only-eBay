@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "a 'tilleadh staid àbhaisteach"
+  },
+  "collectionInPerson": {
+    "message": "Cruinneachadh gu pearsanta"
   }
 }

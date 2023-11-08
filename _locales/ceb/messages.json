@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "nagbalik nga default nga kahimtang"
+  },
+  "collectionInPerson": {
+    "message": "Koleksyon sa personal"
   }
 }

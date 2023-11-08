@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "returnerer standardtilstand"
+  },
+  "collectionInPerson": {
+    "message": "Henting personlig"
   }
 }

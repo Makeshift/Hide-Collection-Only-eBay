@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ންވުރުފޮ ންޓަބަ ލީންއޮ-ންޝަކްލެކަ ށްއަބޭއީ"
+  },
+  "extensionDescription": {
+    "message": ".ވެއެރެކުރުތުއި އްނެޓަބަ ށްމަވުރުފޮ ތިކެތަ ލީންއޮ-ންޝަކްލެކަ އިގަބޭއީ"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ނިކައެ-ންޝަކްލެކަ ންވުރުފޮ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ވެއެނެފެނު އްޖެރޭޓޯސް ޒާއުރަބް"
+  },
+  "notSavingState": {
+    "message": "ވެނެނޫ އްތެލައުދަ ރާކުތްމަލާސަ"
+  },
+  "returningDefaultState": {
+    "message": "ޓްޓޭސް ޓްލްފޯޑި ގންނިރޓަރި"
+  },
+  "collectionInPerson": {
+    "message": "ންރުކުއްއެ ންތުގޮ ޞީޚުޝަ"
+  }
+}

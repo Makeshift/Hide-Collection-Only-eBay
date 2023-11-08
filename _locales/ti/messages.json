@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": "ንኢ-ቤይ ዝኸውን ናይ ምእካብ ጥራይ መጠወቒ ሕባእ"
+    "message": "ንኢ-ቤይ ዝኸውን ስብስብ ጥራይ ዝኸውን መጠወቒ ሕባእ"
   },
   "extensionDescription": {
-    "message": "ኣብ ኢ-ቤይ ንዝተኣከቡ ጥራይ ዝኾኑ ነገራት ንምሕባእ ዝሕግዝ መጠወቒ ይውስኽ።"
+    "message": "ኣብ ኢ-ቤይ ንእኩብ ጥራይ ዝኾኑ ነገራት ንምሕባእ መጠወቒ ይውስኽ።"
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "ስብስብ-ጥራይ"
+    "message": "ስብስብ-ጥራሕ ምሕባእ"
   },
   "noBrowserStorageFound": {
     "message": "ዝኾነ ናይ መርበብ ሓበሬታ መኽዘን ኣይተረኽበን።"
   },
   "notSavingState": {
-    "message": "ሃገር ዘድሕን ኣይኮነን።"
+    "message": "ምድሓን መንግስቲ ኣይኮነን።"
   },
   "returningDefaultState": {
     "message": "ነባሪ ኩነታት ምምላስ"
+  },
+  "collectionInPerson": {
+    "message": "ብኣካል ምእካብ"
   }
 }

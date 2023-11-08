@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "terugkeer verstek toestand"
+  },
+  "collectionInPerson": {
+    "message": "Persoonlike versameling"
   }
 }

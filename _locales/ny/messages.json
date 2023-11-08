@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "kubwerera kusasintha"
+  },
+  "collectionInPerson": {
+    "message": "Kutolera mwa munthu"
   }
 }

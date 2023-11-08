@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Ocultar botão somente coleção para eBay"
+  },
+  "extensionDescription": {
+    "message": "Adiciona um botão para ocultar itens somente da coleção no eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Ocultar somente coleção"
+  },
+  "noBrowserStorageFound": {
+    "message": "Nenhum armazenamento do navegador encontrado"
+  },
+  "notSavingState": {
+    "message": "não salvando estado"
+  },
+  "returningDefaultState": {
+    "message": "retornando ao estado padrão"
+  },
+  "collectionInPerson": {
+    "message": "Coleção em pessoa"
+  }
+}

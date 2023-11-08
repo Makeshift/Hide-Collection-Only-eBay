@@ -3,7 +3,7 @@
     "message": "Afeno ny bokotra fanangonana fotsiny ho an'ny eBay"
   },
   "extensionDescription": {
-    "message": "Manampy bokotra hanafenana entana Collection-Only amin'ny eBay."
+    "message": "Manampy bokotra hanafina entana Collection-Only amin'ny eBay."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Afeno ny fanangonana-Izy"
@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "miverina amin'ny fanjakana default"
+  },
+  "collectionInPerson": {
+    "message": "fanangonana manokana"
   }
 }

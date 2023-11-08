@@ -15,6 +15,9 @@
     "message": "ntabwo azigama leta"
   },
   "returningDefaultState": {
-    "message": "Garuka"
+    "message": "Garuka Leta"
+  },
+  "collectionInPerson": {
+    "message": "Gukusanya imbonankubone"
   }
 }

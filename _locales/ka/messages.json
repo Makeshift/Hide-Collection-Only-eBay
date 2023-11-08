@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ნაგულისხმევი მდგომარეობის დაბრუნება"
+  },
+  "collectionInPerson": {
+    "message": "კოლექცია პირადად"
   }
 }

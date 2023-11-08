@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "revenirea la starea implicită"
+  },
+  "collectionInPerson": {
+    "message": "Colectare în persoană"
   }
 }

@@ -7,6 +7,11 @@
   "permissions": [
     "storage"
   ],
+  "developer": {
+    "name": "Makeshift",
+    "url": "https://github.com/Makeshift"
+  },
+  "homepage_url": "https://github.com/Makeshift/Hide-Collection-Only-eBay",
   "content_scripts": [
     {
       "js": [
@@ -34,9 +39,36 @@
         "https://*.ebay.com.tw/sch/*",
         "https://*.ebay.co.th/sch/*",
         "https://*.ebay.com/sch/*",
-        "https://*.ebay.vn/sch/*"
+        "https://*.ebay.vn/sch/*",
+        "https://*.ebay.co.uk/b/*",
+        "https://*.ebay.com.au/b/*",
+        "https://*.ebay.at/b/*",
+        "https://*.ebay.be/b/*",
+        "https://*.ebay.ca/b/*",
+        "https://*.ebay.cn/b/*",
+        "https://*.ebay.fr/b/*",
+        "https://*.ebay.de/b/*",
+        "https://*.ebay.ie/b/*",
+        "https://*.ebay.it/b/*",
+        "https://*.ebay.com.hk/b/*",
+        "https://*.ebay.com.my/b/*",
+        "https://*.ebay.nl/b/*",
+        "https://*.ebay.ph/b/*",
+        "https://*.ebay.pl/b/*",
+        "https://*.ebay.com.sg/b/*",
+        "https://*.ebay.es/b/*",
+        "https://*.ebay.ch/b/*",
+        "https://*.ebay.com.tw/b/*",
+        "https://*.ebay.co.th/b/*",
+        "https://*.ebay.com/b/*",
+        "https://*.ebay.vn/b/*"
       ],
       "run_at": "document_start"
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{6c7b3687-7313-4558-bdf3-bbb6f0602834}"
+    }
+  }
 }

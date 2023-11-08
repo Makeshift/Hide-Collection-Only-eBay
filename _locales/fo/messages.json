@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "Hide Collection-Only Button for eBay"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "Lat/Latið ein knapp at goyma Collection-Only items á eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Hide Collection-Only"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "Eingin browser storage fann"
   },
   "notSavingState": {
-    "message": ""
+    "message": "ikki sparir state"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "at koma aftur default state"
+  },
+  "collectionInPerson": {
+    "message": "Collection in person"
   }
 }

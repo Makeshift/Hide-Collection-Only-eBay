@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ﺎﻧﺮﮐ ﺲﭘﺍﻭ ﻮﮐ ﺖﻟﺎﺣ ﮦﺪﺷ ﮯﻃ ﮯﺳ ﮯﻠﮩﭘ"
+  },
+  "collectionInPerson": {
+    "message": "ﺎﻧﺮﮐ ﻊﻤﺟ ﺮﭘ ﺭﻮﻃ ﯽﺗﺍﺫ"
   }
 }

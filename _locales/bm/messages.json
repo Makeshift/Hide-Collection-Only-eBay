@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Butɔn min bɛ wele ko Collection-Only, o dogo eBay kama"
+  },
+  "extensionDescription": {
+    "message": "A bɛ butɔni dɔ fara a kan walasa ka Collection-Only fɛnw dogo eBay kan."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Hide Collection-Dɔrɔn"
+  },
+  "noBrowserStorageFound": {
+    "message": "Navigatɛri marayɔrɔ si ma Sɔrɔ"
+  },
+  "notSavingState": {
+    "message": "ba kisi jamana"
+  },
+  "returningDefaultState": {
+    "message": "seginni cogo kɔrɔ la"
+  },
+  "collectionInPerson": {
+    "message": "Lajɛ kɛ i yɛrɛ la"
+  }
+}

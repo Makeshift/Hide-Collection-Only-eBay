@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": "eBay のコレクション専用ボタンを非表示"
+    "message": "eBay のコレクション専用ボタンを非表示にする"
   },
   "extensionDescription": {
-    "message": "eBay でコレクション限定アイテムを非表示にするボタンを追加します。"
+    "message": "eBay でコレクションのみのアイテムを非表示にするボタンを追加します。"
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "コレクションのみを非表示"
+    "message": "コレクションのみを非表示にする"
   },
   "noBrowserStorageFound": {
-    "message": "ブラウザー ストレージが見つかりません"
+    "message": "ブラウザストレージが見つかりません"
   },
   "notSavingState": {
     "message": "状態を保存しない"
   },
   "returningDefaultState": {
     "message": "デフォルト状態を返す"
+  },
+  "collectionInPerson": {
+    "message": "個人での収集"
   }
 }

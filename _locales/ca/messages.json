@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "retornant l'estat predeterminat"
+  },
+  "collectionInPerson": {
+    "message": "Recollida presencial"
   }
 }

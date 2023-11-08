@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Ilemmeng ti Koleksion-Laeng a Buton para iti eBay"
+  },
+  "extensionDescription": {
+    "message": "Manginayon ti buton tapno mailemmeng dagiti Koleksion-Laeng a banag iti eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Ilemmeng ti Koleksion-Laeng"
+  },
+  "noBrowserStorageFound": {
+    "message": "Awan ti nasarakan a pagipempenan ti browser"
+  },
+  "notSavingState": {
+    "message": "saan a mangisalakan nga estado"
+  },
+  "returningDefaultState": {
+    "message": "agsubli ti default nga estado"
+  },
+  "collectionInPerson": {
+    "message": "Koleksion a personal"
+  }
+}

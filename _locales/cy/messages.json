@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "cyflwr rhagosodedig dychwelyd"
+  },
+  "collectionInPerson": {
+    "message": "Casgliad yn bersonol"
   }
 }

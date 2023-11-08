@@ -1,20 +1,23 @@
 {
   "extensionName": {
-    "message": ""
+    "message": "Ocultar botón ho̲ntho colección pa eBay"
   },
   "extensionDescription": {
-    "message": ""
+    "message": "Añade 'nar botón da ocultar ya xeni Nthuts'i ho̲ntho colección jar eBay."
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": ""
+    "message": "Ocultar ho̲ntho colección"
   },
   "noBrowserStorageFound": {
-    "message": ""
+    "message": "Hingi ar xi encontrado almacenamiento ja ar navegador"
   },
   "notSavingState": {
-    "message": ""
+    "message": "Hingi guardar jar dätä hnini"
   },
   "returningDefaultState": {
-    "message": ""
+    "message": "Devolver jar dätä hnini predeterminado"
+  },
+  "collectionInPerson": {
+    "message": "Recogida presencial"
   }
 }

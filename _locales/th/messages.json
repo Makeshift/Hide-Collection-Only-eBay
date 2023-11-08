@@ -3,18 +3,21 @@
     "message": "ซ่อนปุ่มคอลเลกชันเท่านั้นสำหรับ eBay"
   },
   "extensionDescription": {
-    "message": "เพิ่มปุ่มเพื่อซ่อนสินค้าเฉพาะคอลเลกชันบน eBay"
+    "message": "เพิ่มปุ่มเพื่อซ่อนรายการเฉพาะคอลเลกชันบน eBay"
   },
   "hideCollectionOnlyButtonTitle": {
-    "message": "ซ่อนคอลเล็กชันเท่านั้น"
+    "message": "ซ่อนคอลเลกชันเท่านั้น"
   },
   "noBrowserStorageFound": {
     "message": "ไม่พบที่เก็บข้อมูลเบราว์เซอร์"
   },
   "notSavingState": {
-    "message": "ไม่บันทึกสถานะ"
+    "message": "ไม่รักษาสถานะ"
   },
   "returningDefaultState": {
-    "message": "คืนค่าสถานะเริ่มต้น"
+    "message": "กลับสถานะเริ่มต้น"
+  },
+  "collectionInPerson": {
+    "message": "รวบรวมด้วยตนเอง"
   }
 }

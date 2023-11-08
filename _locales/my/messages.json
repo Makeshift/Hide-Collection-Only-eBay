@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "ပုံသေအခြေအနေသို့ ပြန်လာခြင်း"
+  },
+  "collectionInPerson": {
+    "message": "လူကိုယ်တိုင် စုဆောင်းပါ။"
   }
 }

@@ -9,12 +9,15 @@
     "message": "Huna Kohinga-anake"
   },
   "noBrowserStorageFound": {
-    "message": "Karekau he rokiroki tirotiro i kitea"
+    "message": "Kaore i kitea he rokiroki tirotiro"
   },
   "notSavingState": {
     "message": "e kore e whakaora i te ahua"
   },
   "returningDefaultState": {
     "message": "te whakahoki i te ahua taunoa"
+  },
+  "collectionInPerson": {
+    "message": "Kohikohi tangata"
   }
 }

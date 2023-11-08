@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "ﯼەﺒﯿﺋ ﯚﺑ ەﻭەﻧﺩﺮﮐﯚﮐ ﺎﻬﻧەﺗ ﯼەﻭەﻧﺩﺭﺎﺷ ﯼەﻤﮔﻭﺩ"
+  },
+  "extensionDescription": {
+    "message": ".ﯼەﺒﯿﺋ ەﻟ ەﻭەﻧﺩﺮﮐﯚﮐ ﺎﻬﻧەﺗ ﯽﻧﺎﮐەﺘﺷ ﯼەﻭەﻧﺩﺭﺎﺷ ﯚﺑ ﺕﺎﮐەﺩ ﺩﺎﯾﺯ ﮎەﯾەﻤﮔﻭﺩ"
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "ﺎﻬﻧەﺗ-ەﻭەﻧﺩﺮﮐﯚﮐ ﯼەﻭەﻧﺩﺭﺎﺷ"
+  },
+  "noBrowserStorageFound": {
+    "message": "ەﻭەﺗەﻭﺍﺭﺯﯙﺩەﻧ ڕەﮕﺒێﻭ ﯽﮐەﯾﺎﮔﯚﮐ ﭻﯿﻫ"
+  },
+  "notSavingState": {
+    "message": "ﻥﺩﺮﮑﺗﻭەﮐەﺷﺎﭘ ﯽﺗەڵﻭەﺩ ﮎەﻧ"
+  },
+  "returningDefaultState": {
+    "message": "ەﺘﺧەﻮﺸێﭘ ﯽﺧﯙﺩ ﯼەﻭەﻧﺍڕەﮔ"
+  },
+  "collectionInPerson": {
+    "message": "ﯽﺳەﮐ ﯽﮐەﯾەﻮێﺷ ەﺑ ەﻭەﻧﺩﺮﮐﯚﮐ"
+  }
+}

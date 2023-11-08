@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Bomba Bouton ya Collection-Kaka mpo na eBay"
+  },
+  "extensionDescription": {
+    "message": "Ebakisi bouton mpo na kobomba biloko ya Collection-Only na eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Bomba Collection-Kaka"
+  },
+  "noBrowserStorageFound": {
+    "message": "Bobombi ya navigateur ezwami te"
+  },
+  "notSavingState": {
+    "message": "état ya kobikisa te"
+  },
+  "returningDefaultState": {
+    "message": "kozongisa état par défaut"
+  },
+  "collectionInPerson": {
+    "message": "Kosangisa na miso"
+  }
+}

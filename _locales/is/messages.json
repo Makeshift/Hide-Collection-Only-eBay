@@ -15,6 +15,9 @@
     "message": "ekki bjarga ríki"
   },
   "returningDefaultState": {
-    "message": "skilar sjálfgefnu ástandi"
+    "message": "skila sjálfgefnu ástandi"
+  },
+  "collectionInPerson": {
+    "message": "Söfnun í eigin persónu"
   }
 }

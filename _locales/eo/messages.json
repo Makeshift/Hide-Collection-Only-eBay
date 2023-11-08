@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "revenante defaŭltan staton"
+  },
+  "collectionInPerson": {
+    "message": "Kolekto en persono"
   }
 }

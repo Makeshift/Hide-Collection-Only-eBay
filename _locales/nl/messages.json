@@ -1,9 +1,9 @@
 {
   "extensionName": {
-    "message": "Knop voor alleen collectie verbergen voor eBay"
+    "message": "Knop Alleen verzameling verbergen voor eBay"
   },
   "extensionDescription": {
-    "message": "Voegt een knop toe om alleen-collectie-items op eBay te verbergen."
+    "message": "Voegt een knop toe om alleen collectie-items op eBay te verbergen."
   },
   "hideCollectionOnlyButtonTitle": {
     "message": "Alleen collectie verbergen"
@@ -12,9 +12,12 @@
     "message": "Geen browseropslag gevonden"
   },
   "notSavingState": {
-    "message": "staat niet op te slaan"
+    "message": "staat niet opgeslagen"
   },
   "returningDefaultState": {
-    "message": "terugkerende standaardstatus"
+    "message": "standaardstatus retourneren"
+  },
+  "collectionInPerson": {
+    "message": "Persoonlijk ophalen"
   }
 }

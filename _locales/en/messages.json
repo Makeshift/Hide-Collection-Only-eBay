@@ -16,5 +16,8 @@
   },
   "returningDefaultState": {
     "message": "returning default state"
+  },
+  "collectionInPerson": {
+    "message": "Collection in person"
   }
 }

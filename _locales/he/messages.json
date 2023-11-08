@@ -12,9 +12,12 @@
     "message": "ןפדפדב ןוסחא אצמנ אל"
   },
   "notSavingState": {
-    "message": "הנידמ ליצמ אל"
+    "message": "הנידמ רמוש אל"
   },
   "returningDefaultState": {
     "message": "לדחמה תרירב בצמ תא ריזחמ"
+  },
+  "collectionInPerson": {
+    "message": "ישיא ןפואב ףסוא"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "Šaltowanska płonina \"Jenož zběrka\" za eBay wublendować"
+  },
+  "extensionDescription": {
+    "message": "Přidajće šaltowansku płoninu k wublendowanju nurjenskich artiklow pola eBay."
+  },
+  "hideCollectionOnlyButtonTitle": {
+    "message": "Jenož zběrku wublendować"
+  },
+  "noBrowserStorageFound": {
+    "message": "Žadyn browserowy skład njenamakał"
+  },
+  "notSavingState": {
+    "message": "Staw so njeskładuje"
+  },
+  "returningDefaultState": {
+    "message": "Wróćić standardneho stawa"
+  },
+  "collectionInPerson": {
+    "message": "Wosobinske wotewzaće"
+  }
+}
