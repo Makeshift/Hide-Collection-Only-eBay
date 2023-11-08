@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 bump-my-version bump "${1:-patch}"
 new_version=$(bump-my-version show current_version)
 
